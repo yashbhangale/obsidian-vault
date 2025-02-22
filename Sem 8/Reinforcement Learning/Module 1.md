@@ -165,8 +165,8 @@ This balance is crucial for training AI in games, robotics, and real-world decis
 
 ---
 
-# [[sarsa and q-learning hinglish]]
-## What is SARSA in reinforcement learning?
+##### [[sarsa and q-learning hinglish]]
+### 7. What is SARSA in reinforcement learning?
 
 ### SARSA in Reinforcement Learning
 
@@ -222,4 +222,25 @@ Imagine an agent navigating a grid world. If it's following an ε-greedy policy:
 - In **stochastic** environments where Q-learning might be too risky.
 - When following a specific policy (e.g., a soft policy like ε-greedy).
 
+
+ ---
+
+
+### **8. Deep Q-Networks (DQN) - Quick Points**
+
+1️⃣ **Concept** – Combines **Deep Learning + Q-Learning** for RL. Uses a neural network instead of a Q-table.
+
+2️⃣ **Working** – Neural network takes **state (s) as input** and predicts **Q-values for all actions**. Best action = **argmax(Q-value)**.
+
+3️⃣ **Key Techniques**:  
+✅ **Experience Replay** – Stores past experiences and trains on random batches.  
+✅ **Target Network** – Separate network for stable learning, updated periodically.  
+✅ **Epsilon-Greedy** – Balances exploration (random actions) & exploitation (best Q-values).
+
+4️⃣ **Loss Function**:  
+Loss=(r+γmax⁡Q′(s′,a′)−Q(s,a))2\text{Loss} = (r + \gamma \max Q'(s', a') - Q(s, a))^2
+
+5️⃣ **Use Cases** – **Atari Games, Robotics, Finance (Trading bots), Automation**.
+
+👉 **DQN revolutionized RL, making it feasible for large state spaces!**
 

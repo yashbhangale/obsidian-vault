@@ -1,6 +1,9 @@
 ---
 title: Reinforcement Learning sarsa and q-learning hinglish
 date: 2025-02-21
+tags:
+  - College
+  - RL
 ---
 
 Bhai tension nahi lene ka! SARSA aur Q-Learning dono **Reinforcement Learning (RL)** ke algorithms hain, jo agent ko best policy seekhne me madad karte hain. Dono **Temporal Difference (TD) Learning** ka part hain, lekin ek key difference hai jo game change karta hai.
