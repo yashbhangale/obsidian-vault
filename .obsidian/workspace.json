@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/1. Azure Index.md",
+                "file": "2.DSA/0. DSA Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Azure Index"
+              "title": "0. DSA Index"
             }
           }
         ]
@@ -166,18 +166,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "hugo-publish:hugo sync": false
+      "hugo-publish:hugo sync": false,
+      "iconic:Open rulebook": false
     }
   },
   "active": "8071c539336772e4",
   "lastOpenFiles": [
+    "self learnings and improvements/1.main.md",
+    "AZ-104/1. Azure Index.md",
     "fusion/Work done till now.md",
     "fusion/Drawing 2024-12-28 23.42.13.excalidraw.md",
     "self learnings and improvements/how to be a good communicator.md",
     "self learnings and improvements/Greatest Comeback.md",
     "self learnings and improvements/Drawing 2024-12-18 11.31.58.excalidraw.md",
     "self learnings and improvements/6 Social Skills to master for a Magnetic Aura.md",
-    "self learnings and improvements/1.main.md",
     "self learnings and improvements",
     "resume/DevOps - Cloud.md",
     "converter_config.json",
@@ -216,7 +218,6 @@
     "Learn English/vocabulary.md",
     "Learn English/1. Main.md",
     "Java Learning/sorting algorithms/3. insertion sort.md",
-    "Java Learning/sorting algorithms/2. Selection sort.md",
     "2.DSA/Linked list code.canvas"
   ]
 }
