@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "443e222eef503fac",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aa81a4e18e6eeaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8071c539336772e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ-104/1. Azure Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Azure Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "999330f5cf3ec718",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f86eb6c2b406b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16caefe5e3afb1f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30396e951607d859",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07ffde9e458a2fa1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48303e4fbc4f6709",
+    "type": "split",
+    "children": [
+      {
+        "id": "10a0fd446bafc5f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63693525d78ce3f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for main"
+            }
+          },
+          {
+            "id": "bfa695205d32f159",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from main"
+            }
+          },
+          {
+            "id": "80c4ccfed6676116",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a733b6e78700aa9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of main"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "hugo-publish:hugo sync": false
+    }
+  },
+  "active": "8071c539336772e4",
+  "lastOpenFiles": [
+    "fusion/Work done till now.md",
+    "fusion/Drawing 2024-12-28 23.42.13.excalidraw.md",
+    "self learnings and improvements/how to be a good communicator.md",
+    "self learnings and improvements/Greatest Comeback.md",
+    "self learnings and improvements/Drawing 2024-12-18 11.31.58.excalidraw.md",
+    "self learnings and improvements/6 Social Skills to master for a Magnetic Aura.md",
+    "self learnings and improvements/1.main.md",
+    "self learnings and improvements",
+    "resume/DevOps - Cloud.md",
+    "converter_config.json",
+    "config.json",
+    "main.py",
+    "main.md",
+    "1.DevOps - Cloud/Docker/1. Docker Introduction.md",
+    "SQL/SQL handwritten notes.md",
+    "SQL/SQL Index.md",
+    "SQL",
+    "Sem 8/Social media Analysis/sma2019qb.pdf",
+    "Sem 8/Social media Analysis/Pastedimage20250201211414.png",
+    "Sem 8/Social media Analysis/Pastedimage20250201211402.png",
+    "Sem 8/Social media Analysis/Pasted image 20250221123837.png",
+    "Sem 8/Social media Analysis/Pasted image 20250221123813.png",
+    "Sem 8/Social media Analysis/Pasted image 20250221123350.png",
+    "Sem 8/Social media Analysis/Pasted image 20250221123331.png",
+    "Sem 8/Social media Analysis/Pasted image 20250221123052.png",
+    "Sem 8/Social media Analysis/Pasted image 20250221123043.png",
+    "Sem 8/Social media Analysis/Pasted image 20250221112013.png",
+    "Sem 8/Social media Analysis/Pasted image 20250221111952.png",
+    "Sem 8/Social media Analysis/Module 1.md",
+    "Sem 8/Social media Analysis/0.Social media Analysis.md",
+    "Sem 8/Social media Analysis",
+    "Sem 8/Reinforcement Learning/sarsa and q-learning hinglish.md",
+    "Sem 8/Reinforcement Learning/RL2019qb.pdf",
+    "Sem 8/Reinforcement Learning/Module 1.md",
+    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
+    "Sem 8/Reinforcement Learning",
+    "Sem 8/EVS/envmanagement2019qb.pdf",
+    "Sem 8/EVS/0.EVS.md",
+    "Sem 8/AAI/0. AAI Index.md",
+    "resume/common.md",
+    "resume/Resume Index.md",
+    "resume/FullStack Dev.md",
+    "Learn English/vocabulary.md",
+    "Learn English/1. Main.md",
+    "Java Learning/sorting algorithms/3. insertion sort.md",
+    "Java Learning/sorting algorithms/2. Selection sort.md",
+    "2.DSA/Linked list code.canvas"
+  ]
+}
