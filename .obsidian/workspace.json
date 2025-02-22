@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.DSA/1. Linked List.md",
+                "file": "2.DSA/0. DSA Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Linked List"
+              "title": "0. DSA Index"
+            }
+          },
+          {
+            "id": "07183a17bcffa630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.DSA/0. DSA Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. DSA Index"
+            }
+          },
+          {
+            "id": "768fc206aef213e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.DSA/0. DSA Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. DSA Index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5086555480957
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -170,54 +199,54 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "8071c539336772e4",
+  "active": "768fc206aef213e7",
   "lastOpenFiles": [
-    "2.DSA/2. Conditions and loops.md",
-    "2.DSA/1. Linked List.md",
+    "Mathematics for DSA.md",
     "2.DSA/0. DSA Index.md",
-    "self learnings and improvements/1.main.md",
-    "AZ-104/1. Azure Index.md",
+    "2.DSA/1. Linked List.md",
+    "string questions.md",
+    "2.DSA/Pasted image 20250119145033.png",
+    "2.DSA/Pasted image 20250119145013.png",
+    "2.DSA/Pasted image 20250114063408.png",
+    "2.DSA/Pasted image 20250114061031.png",
+    "2.DSA/Pasted image 20250114060921.png",
+    "2.DSA/Pasted image 20250114060144.png",
+    "2.DSA/Linear Search Algorithm.md",
+    "2.DSA/loops questions for interviews.md",
+    "2.DSA/Array list vs linked list.md",
+    "2.DSA/Arrays.md",
+    "2.DSA/Drawing 2024-12-20 16.00.34.excalidraw.md",
+    "2.DSA/Binary search in 2d arrays.md",
+    "AZ-104/Azure Bastion.md",
     "fusion/Work done till now.md",
-    "fusion/Drawing 2024-12-28 23.42.13.excalidraw.md",
-    "self learnings and improvements/how to be a good communicator.md",
-    "self learnings and improvements/Greatest Comeback.md",
-    "self learnings and improvements/Drawing 2024-12-18 11.31.58.excalidraw.md",
-    "self learnings and improvements/6 Social Skills to master for a Magnetic Aura.md",
+    "Learn English/vocabulary.md",
+    "Learn English/1. Main.md",
+    "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
+    "Sem 8/Reinforcement Learning/Module 1.md",
+    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
+    "Sem 8/Social media Analysis/Module 1.md",
+    "AZ-104/Azure loadbalancer.md",
+    "AZ-104/Network watcher service.md",
+    "AZ-104/User defined routes.md",
+    "AZ-104/DNS.md",
+    "AZ-104/hands-on.md",
+    "AZ-104/1. Azure Index.md",
+    "main.md",
+    "Pasted image 20250221203843.png",
+    "2.DSA/2. Conditions and loops.md",
+    "self learnings and improvements/1.main.md",
     "self learnings and improvements",
-    "resume/DevOps - Cloud.md",
     "converter_config.json",
     "config.json",
     "main.py",
-    "main.md",
-    "1.DevOps - Cloud/Docker/1. Docker Introduction.md",
-    "SQL/SQL handwritten notes.md",
-    "SQL/SQL Index.md",
     "SQL",
     "Sem 8/Social media Analysis/sma2019qb.pdf",
     "Sem 8/Social media Analysis/Pastedimage20250201211414.png",
     "Sem 8/Social media Analysis/Pastedimage20250201211402.png",
     "Sem 8/Social media Analysis/Pasted image 20250221123837.png",
-    "Sem 8/Social media Analysis/Pasted image 20250221123813.png",
-    "Sem 8/Social media Analysis/Pasted image 20250221123350.png",
-    "Sem 8/Social media Analysis/Pasted image 20250221123331.png",
-    "Sem 8/Social media Analysis/Pasted image 20250221123052.png",
-    "Sem 8/Social media Analysis/Pasted image 20250221123043.png",
-    "Sem 8/Social media Analysis/Pasted image 20250221112013.png",
-    "Sem 8/Social media Analysis/Pasted image 20250221111952.png",
-    "Sem 8/Social media Analysis/Module 1.md",
-    "Sem 8/Social media Analysis/0.Social media Analysis.md",
     "Sem 8/Social media Analysis",
-    "Sem 8/Reinforcement Learning/sarsa and q-learning hinglish.md",
     "Sem 8/Reinforcement Learning/RL2019qb.pdf",
-    "Sem 8/Reinforcement Learning/Module 1.md",
-    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
     "Sem 8/Reinforcement Learning",
-    "Sem 8/EVS/envmanagement2019qb.pdf",
-    "Sem 8/EVS/0.EVS.md",
-    "Sem 8/AAI/0. AAI Index.md",
-    "resume/common.md",
-    "resume/Resume Index.md",
-    "resume/FullStack Dev.md",
     "2.DSA/Linked list code.canvas"
   ]
 }

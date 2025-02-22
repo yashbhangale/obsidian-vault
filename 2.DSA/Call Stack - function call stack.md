@@ -3,7 +3,7 @@ title: 2.DSA Call Stack - function call stack
 date: 2025-01-14
 ---
 
-![alt text](Pastedimage20250114060144.png)
+![[Pasted image 20250114060144.png]]
 
 
 It is a LIFO (Last In, First Out) structure used to keep track of method calls during the execution of a program
@@ -16,11 +16,11 @@ It is a LIFO (Last In, First Out) structure used to keep track of method calls d
     - Return address (where the method should return after execution).
     - Temporary data like intermediate results.
 
-![alt text](Pastedimage20250114060921.png)
+![[Pasted image 20250114060921.png]]
 
 ### Call stack in recursion
 
-![alt text](Pastedimage20250114061031.png)
+![[Pasted image 20250114061031.png]]
 
 ---
 ### **6. Real-World Applications**

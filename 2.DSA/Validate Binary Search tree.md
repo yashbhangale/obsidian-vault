@@ -21,10 +21,10 @@ in binary search tree all node in let is smaller that nodes on right
     - Insert: O(log n)
     - Delete: O(log n) in average case
 
-![alt text](Pastedimage20250119145013.png)
+![[Pasted image 20250119145013.png]]
 
 
-![alt text](Pastedimage20250119145033.png)
+![[Pasted image 20250119145033.png]]
 
 
 
