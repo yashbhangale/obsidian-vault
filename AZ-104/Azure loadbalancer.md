@@ -3,7 +3,7 @@ title: AZ-104 Azure loadbalancer
 date: 2025-01-10
 ---
 
-![alt text](static/images/Pastedimage20241125204024.png)
+![alt text](Pastedimage20241125204024.png)
 
 ---
 used to distribute the incoming network traffic across a set of backend servers
@@ -12,7 +12,7 @@ used to distribute the incoming network traffic across a set of backend servers
 #### Azure load balancer
 
 
-![alt text](static/images/Pastedimage20241125203806.png)
+![alt text](Pastedimage20241125203806.png)
 
 ---
 - You can have an application hosted on a set of machines.
@@ -25,30 +25,30 @@ In azure we have standard load balancer which have SLA (_Service Level Agreement
 
 ---
 
-![alt text](static/images/Pastedimage20241125204234.png)
+![alt text](Pastedimage20241125204234.png)
 
 ---
-![alt text](static/images/Pastedimage20241125204308.png)
+![alt text](Pastedimage20241125204308.png)
 loadbalancer healthy or not (health probe )
 
 ---
 
-![alt text](static/images/Pastedimage20241125204506.png)
+![alt text](Pastedimage20241125204506.png)
 
 ---
 
 To use  loadbalancer it is necessary to make a machines (vms) in availability set or scale set
 
-![alt text](static/images/Pastedimage20241125212332.png)
+![alt text](Pastedimage20241125212332.png)
 
 ---
 ### Deployment of basic load balancer in azure
 
-![alt text](static/images/Pastedimage20241125215904.png)
+![alt text](Pastedimage20241125215904.png)
 
 ---
 
-![alt text](static/images/Pastedimage20241125220040.png)
+![alt text](Pastedimage20241125220040.png)
 
 ---
 

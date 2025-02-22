@@ -12,23 +12,23 @@ tags: [excalidraw]
 Configure and manage virtual networking ^Kf5VM8Xc
 
 ## Embedded Files
-9aa6e99075b4a0d42cebd82850eb0fb0c458269b: [[static/images/PastedImage20241218220610_599.png]]
+9aa6e99075b4a0d42cebd82850eb0fb0c458269b: [[PastedImage20241218220610_599.png]]
 
-5552ba1f3407ba72d11f0bc7e360cd51cb3018a6: [[static/images/PastedImage20241218220642_007.png]]
+5552ba1f3407ba72d11f0bc7e360cd51cb3018a6: [[PastedImage20241218220642_007.png]]
 
-60d93b998409f1890c3583ab27712cae41a7425f: [[static/images/PastedImage20241218220721_613.png]]
+60d93b998409f1890c3583ab27712cae41a7425f: [[PastedImage20241218220721_613.png]]
 
-46f1bef2211fc2917900b08ff7c79a3976a85439: [[static/images/PastedImage20241218220804_236.png]]
+46f1bef2211fc2917900b08ff7c79a3976a85439: [[PastedImage20241218220804_236.png]]
 
-5684b27bccef8a8438bd440c03e18a89fb515f43: [[static/images/PastedImage20241218220836_396.png]]
+5684b27bccef8a8438bd440c03e18a89fb515f43: [[PastedImage20241218220836_396.png]]
 
-a99c86cd9d5b4076302f0b0ec4257a56a02e70d3: [[static/images/PastedImage20241218220927_034.png]]
+a99c86cd9d5b4076302f0b0ec4257a56a02e70d3: [[PastedImage20241218220927_034.png]]
 
-d4742d5ebb795628fd8f7ad8249fbc40a470a257: [[static/images/PastedImage20241218221013_972.png]]
+d4742d5ebb795628fd8f7ad8249fbc40a470a257: [[PastedImage20241218221013_972.png]]
 
-e9cca17dbe93c17bf11cf81a18b0e0274b91cdf1: [[static/images/PastedImage20241218221044_783.png]]
+e9cca17dbe93c17bf11cf81a18b0e0274b91cdf1: [[PastedImage20241218221044_783.png]]
 
-9c4e2c0f713207bf8355398d4a30b375f71ebe6d: [[static/images/PastedImage20241218221153_787.png]]
+9c4e2c0f713207bf8355398d4a30b375f71ebe6d: [[PastedImage20241218221153_787.png]]
 
 %%
 ## Drawing
