@@ -73,8 +73,8 @@ Q(a) = E[R|A = a]
 
 Where:
 
-- Q(a)Q(a) is the **estimated value** of taking action **a**.
-- RR is the **reward** received for taking action **a**.
+- Q(a) is the **estimated value** of taking action **a**.
+- R is the **reward** received for taking action **a**.
 - E\mathbb{E} represents the **expected value** (average reward over time).
 
 The goal of **action-value methods** is to find the optimal action **a∗a^*** that maximizes Q(a):
@@ -138,3 +138,67 @@ This method is more **memory efficient** than storing all rewards.
 #### **7. Conclusion**
 
 Action-value methods are essential in **Reinforcement Learning**, providing a way to estimate the **expected reward** for different actions. Using sample averages or incremental updates, an agent can gradually **learn the best actions**. Various selection strategies like **greedy, epsilon-greedy, and softmax** help balance **exploration and exploitation**. These methods are widely used in AI, robotics, and optimization problems.
+
+
+#### **1️⃣ Sample-Average Methods**
+
+**Concept**:
+
+- This method calculates action values as the **average of all past rewards** received for a particular action.
+    
+![[Pasted image 20250222204450.png]]
+
+**Working**:
+
+- Whenever an action is selected, its new reward is added to the total sum.
+- The new **sample average** is recalculated.
+
+**Pros**:  
+✅ Simple and effective when rewards are **stationary** (do not change over time).  
+✅ Provides an unbiased estimate of **true action values**.
+
+**Cons**:  
+❌ Computationally expensive if many actions are selected because it requires storing all past rewards.  
+❌ **Slow learning** when dealing with **non-stationary rewards** (i.e., when the environment changes over time).
+
+---
+
+#### **2️⃣ Incremental Update Methods**
+
+**Concept**:
+
+- Instead of storing and averaging all past rewards, this method uses an **efficient update rule** to adjust the action-value estimate **step by step**.
+    
+![[Pasted image 20250222204504.png]]
+**Working**:  
+1️⃣ Start with an initial **Q-value** for an action.  
+2️⃣ When the action is selected, receive a new reward **RnR_n**.  
+3️⃣ Update **Q-value** using the incremental formula.  
+4️⃣ The learning rate α\alpha controls how much influence the new reward has on the estimate.
+
+**Pros**:  
+✅ More efficient because it doesn’t require storing all past rewards.  
+✅ Works well for **non-stationary** environments if **α\alpha** is set properly (higher α\alpha reacts quickly to changes).
+
+**Cons**:  
+❌ Can be biased if **α\alpha** is not tuned correctly.  
+❌ Older rewards lose influence as newer rewards dominate.
+
+---
+
+#### **Comparison Table**
+
+| Method                 |     | Storage Requirement       | Best for                   | Weakness                                      |
+| ---------------------- | --- | ------------------------- | -------------------------- | --------------------------------------------- |
+| **Sample-Average**     |     | Stores all rewards        | **Stationary** rewards     | Slow learning, high memory use                |
+| **Incremental Update** |     | Only stores last estimate | **Non-stationary** rewards | Sensitive to α\alpha, biased if misconfigured |
+
+---
+
+#### **Conclusion**
+
+- **Sample-average methods** are great for **stable environments** but require **storing all rewards** and **slow adaptation** to changes.
+- **Incremental update methods** are better for **dynamic environments**, as they use a **step-size parameter** for faster learning while keeping memory usage low.
+- The choice between these methods depends on whether the environment is **stationary or non-stationary**.
+
+These methods form the foundation for **reinforcement learning algorithms**, including **Q-learning and Deep Q-Networks (DQN)**! 🚀
