@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.DSA/0. DSA Index.md",
+                "file": "2.DSA/1. Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. DSA Index"
+              "title": "1. Linked List"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "8071c539336772e4",
   "lastOpenFiles": [
+    "2.DSA/2. Conditions and loops.md",
+    "2.DSA/1. Linked List.md",
+    "2.DSA/0. DSA Index.md",
     "self learnings and improvements/1.main.md",
     "AZ-104/1. Azure Index.md",
     "fusion/Work done till now.md",
@@ -215,9 +218,6 @@
     "resume/common.md",
     "resume/Resume Index.md",
     "resume/FullStack Dev.md",
-    "Learn English/vocabulary.md",
-    "Learn English/1. Main.md",
-    "Java Learning/sorting algorithms/3. insertion sort.md",
     "2.DSA/Linked list code.canvas"
   ]
 }
