@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4aa81a4e18e6eeaa",
+        "id": "dea14cf29848022f",
         "type": "tabs",
         "children": [
           {
-            "id": "07183a17bcffa630",
+            "id": "898871fb8e0ab8df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.DSA/0. DSA Index.md",
+                "file": "Sem 8/Social media Analysis/Module 2 SMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. DSA Index"
-            }
-          },
-          {
-            "id": "768fc206aef213e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Reinforcement learning"
-            }
-          },
-          {
-            "id": "873444015655a6c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 8/Reinforcement Learning/Module 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Module 2"
-            }
-          },
-          {
-            "id": "52e4e29bf7536d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 8/Reinforcement Learning/Hinglish action-value.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hinglish action-value"
+              "title": "Module 2 SMA"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 8/Reinforcement Learning/Module 2.md",
+                "file": "Sem 8/Social media Analysis/Module 2 SMA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Module 2"
+              "title": "Outline of Module 2 SMA"
             }
           }
         ],
@@ -199,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,29 +170,32 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "873444015655a6c0",
+  "active": "898871fb8e0ab8df",
   "lastOpenFiles": [
+    "Sem 8/Social media Analysis/Pasted image 20250223120049.png",
+    "Sem 8/Reinforcement Learning/Hinglish action-value.md",
+    "Sem 8/Social media Analysis/Module 1.md",
+    "Sem 8/Social media Analysis/Module 2 SMA.md",
+    "Sem 8/Social media Analysis/0.Social media Analysis.md",
+    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
+    "2.DSA/0. DSA Index.md",
+    "Sem 8/Reinforcement Learning/Module 2.md",
+    "Sem 8/Reinforcement Learning/Pasted image 20250223103730.png",
+    "Sem 8/Reinforcement Learning/hinglish.md",
+    "Sem 8/Reinforcement Learning/Module 1.md",
     "Sem 8/Reinforcement Learning/Pasted image 20250222204504.png",
     "Sem 8/Reinforcement Learning/Pasted image 20250222204450.png",
-    "Sem 8/Reinforcement Learning/Hinglish action-value.md",
     "Sem 8/Reinforcement Learning/Pasted image 20250222202124.png",
     "Sem 8/Reinforcement Learning/Pasted image 20250222201954.png",
     "Sem 8/Reinforcement Learning/Pasted image 20250222201922.png",
     "Sem 8/Reinforcement Learning/Pasted image 20250222201856.png",
-    "Sem 8/Reinforcement Learning/Module 2.md",
     "Sem 8/Reinforcement Learning/Pasted image 20250222201702.png",
     "Sem 8/Reinforcement Learning/Pasted image 20250222201543.png",
     "Sem 8/Reinforcement Learning/Pasted image 20250222201440.png",
-    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
-    "2.DSA/0. DSA Index.md",
-    "Sem 8/Reinforcement Learning/hinglish.md",
     "Pasted.md",
     "Sem 8/Reinforcement Learning/Untitled.md",
-    "Sem 8/Reinforcement Learning/Module 1.md",
     "Sem 8/Reinforcement Learning/RL2019qb.pdf",
     "Sem 8/Reinforcement Learning/sarsa and q-learning hinglish.md",
-    "Sem 8/Social media Analysis/Module 1.md",
-    "Sem 8/Social media Analysis/0.Social media Analysis.md",
     "1.DevOps - Cloud/Kubernates notes/18. Authentication and authorization in Kubernetes.md",
     "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
     "Learn English/1. Main.md",
@@ -247,11 +207,8 @@
     "Sem 8/AAI/0. AAI Index.md",
     "AZ-104/Azure Bastion.md",
     "AZ-104/User defined routes.md",
-    "AZ-104/Pastedimage20250102125315.png",
-    "AZ-104/Pastedimage20250102125250.png",
     "AZ-104/Network watcher service.md",
     "AZ-104/DNS.md",
-    "AZ-104/Azure loadbalancer.md",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "self learnings and improvements",
     "converter_config.json",

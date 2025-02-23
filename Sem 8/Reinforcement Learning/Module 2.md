@@ -30,12 +30,9 @@ The **N-Armed Bandit Problem** is a fundamental problem in **Reinforcement Learn
 ✅ **Upper Confidence Bound (UCB) Algorithm**
 
 - Focuses on exploration based on **uncertainty**.
-- The formula:  
-    Q(a)+C×ln⁡tN(a)Q(a) + C \times \sqrt{\frac{\ln t}{N(a)}}
-    - **Q(a)**: Estimated reward of action a.
-    - **t**: Total number of trials.
-    - **N(a)**: Number of times action a was selected.
-    - **C**: Controls exploration rate.
+
+![[Pasted image 20250223103730.png]]
+
 - Ensures that **less-explored actions** get more chances.
 
 ✅ **Thompson Sampling**
@@ -184,7 +181,7 @@ Action-value methods are essential in **Reinforcement Learning**, providing a wa
 ❌ Can be biased if **α\alpha** is not tuned correctly.  
 ❌ Older rewards lose influence as newer rewards dominate.
 
----
+
 
 #### **Comparison Table**
 
@@ -193,8 +190,6 @@ Action-value methods are essential in **Reinforcement Learning**, providing a wa
 | **Sample-Average**     |     | Stores all rewards        | **Stationary** rewards     | Slow learning, high memory use                |
 | **Incremental Update** |     | Only stores last estimate | **Non-stationary** rewards | Sensitive to α\alpha, biased if misconfigured |
 
----
-
 #### **Conclusion**
 
 - **Sample-average methods** are great for **stable environments** but require **storing all rewards** and **slow adaptation** to changes.
@@ -202,3 +197,9 @@ Action-value methods are essential in **Reinforcement Learning**, providing a wa
 - The choice between these methods depends on whether the environment is **stationary or non-stationary**.
 
 These methods form the foundation for **reinforcement learning algorithms**, including **Q-learning and Deep Q-Networks (DQN)**! 🚀
+
+---
+
+
+
+
