@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dea14cf29848022f",
+        "id": "91fd0871390a91d3",
         "type": "tabs",
         "children": [
           {
-            "id": "898871fb8e0ab8df",
+            "id": "f3b1fef61f58a174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 8/Social media Analysis/Module 2 SMA.md",
+                "file": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 2 SMA"
+              "title": "0. kubernates index"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 8/Social media Analysis/Module 2 SMA.md",
+                "file": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Module 2 SMA"
+              "title": "Outline of 0. kubernates index"
             }
           }
         ],
@@ -170,12 +171,12 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "898871fb8e0ab8df",
+  "active": "f3b1fef61f58a174",
   "lastOpenFiles": [
+    "Sem 8/Social media Analysis/Module 2 SMA.md",
     "Sem 8/Social media Analysis/Pasted image 20250223120049.png",
     "Sem 8/Reinforcement Learning/Hinglish action-value.md",
     "Sem 8/Social media Analysis/Module 1.md",
-    "Sem 8/Social media Analysis/Module 2 SMA.md",
     "Sem 8/Social media Analysis/0.Social media Analysis.md",
     "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
     "2.DSA/0. DSA Index.md",
@@ -191,7 +192,6 @@
     "Sem 8/Reinforcement Learning/Pasted image 20250222201856.png",
     "Sem 8/Reinforcement Learning/Pasted image 20250222201702.png",
     "Sem 8/Reinforcement Learning/Pasted image 20250222201543.png",
-    "Sem 8/Reinforcement Learning/Pasted image 20250222201440.png",
     "Pasted.md",
     "Sem 8/Reinforcement Learning/Untitled.md",
     "Sem 8/Reinforcement Learning/RL2019qb.pdf",
