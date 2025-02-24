@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a04de6bfc3e76351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.DevOps - Cloud/Kubernates notes/18. Authentication and authorization in Kubernetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18. Authentication and authorization in Kubernetes"
+            }
+          },
+          {
             "id": "f3b1fef61f58a174",
             "type": "leaf",
             "state": {
@@ -22,49 +36,33 @@
             }
           },
           {
-            "id": "b9be219959a9cb64",
+            "id": "4619e60da931fdeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office/Azure container registry.md",
+                "file": "resume/Resume Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azure container registry"
+              "title": "Resume Index"
             }
           },
           {
-            "id": "5bfb2e6b4dea4516",
+            "id": "5f3e82b3eaa270d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/Rolling updates and rollback deployments.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-02-24 15.40.23.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Rolling updates and rollback deployments"
-            }
-          },
-          {
-            "id": "a04de6bfc3e76351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/18. Authentication and authorization in Kubernetes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18. Authentication and authorization in Kubernetes"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-24 15.40.23.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Office/Azure container registry.md",
+                "file": "resume/Resume Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Azure container registry"
+              "title": "Outline of Resume Index"
             }
           }
         ],
@@ -211,28 +209,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "hugo-publish:hugo sync": false,
-      "iconic:Open rulebook": false
+      "iconic:Open rulebook": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b9be219959a9cb64",
+  "active": "4619e60da931fdeb",
   "lastOpenFiles": [
-    "Office/K8s commands.md",
+    "resume/Pasted image 20250224174234.png",
+    "1.DevOps - Cloud/Kubernates notes/Config Maps.md",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224162147.png",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224162104.png",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224162002.png",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224161916.png",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224161831.png",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224161731.png",
+    "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
+    "1.DevOps - Cloud/Kubernates notes/Env variables in k8s.md",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224154952.png",
+    "1.DevOps - Cloud/Kubernates notes/18. Authentication and authorization in Kubernetes.md",
+    "Excalidraw/Drawing 2025-02-24 15.40.23.excalidraw.md",
+    "Excalidraw/Pasted Image 20250224154130_389.png",
     "Office/Azure container registry.md",
+    "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
+    "1.DevOps - Cloud/Kubernates notes/Rolling updates and rollback deployments.md",
+    "Excalidraw/Pasted Image 20250224144852_992.png",
+    "Excalidraw",
+    "Office/K8s commands.md",
     "1.DevOps - Cloud/Kubernates notes/commands and arguments in docker.md",
     "Office",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224120607.png",
-    "1.DevOps - Cloud/Kubernates notes/Rolling updates and rollback deployments.md",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224114806.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224114700.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224114606.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224114507.png",
-    "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224112142.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224112026.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224111939.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224111754.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224111724.png",
-    "1.DevOps - Cloud/Kubernates notes/18. Authentication and authorization in Kubernetes.md",
     "1.DevOps - Cloud/Kubernates notes/ETCD.md",
     "AZ-104/1. Azure Index.md",
     "Java Learning/3. Time and Space Complexity.md",
@@ -248,12 +253,7 @@
     "Sem 8/Reinforcement Learning/hinglish.md",
     "Sem 8/Reinforcement Learning/Module 1.md",
     "Pasted.md",
-    "Sem 8/Reinforcement Learning/Untitled.md",
     "Sem 8/Reinforcement Learning/RL2019qb.pdf",
-    "Sem 8/Reinforcement Learning/sarsa and q-learning hinglish.md",
-    "Learn English/1. Main.md",
-    "2.DSA/string questions.md",
-    "2.DSA/Mathematics for DSA.md",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "self learnings and improvements",
     "converter_config.json",
@@ -261,7 +261,6 @@
     "main.py",
     "SQL",
     "Sem 8/Social media Analysis/sma2019qb.pdf",
-    "Sem 8/Social media Analysis",
     "2.DSA/Linked list code.canvas"
   ]
 }
