@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/commands and arguments in docker.md",
+                "file": "Office/Azure container registry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commands and arguments in docker"
+              "title": "Azure container registry"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "office",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5086555480957,
-    "collapsed": true
+    "width": 213.5086555480957
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/commands and arguments in docker.md",
+                "file": "Office/Azure container registry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of commands and arguments in docker"
+              "title": "Outline of Azure container registry"
             }
           }
         ],
@@ -217,9 +216,12 @@
   },
   "active": "b9be219959a9cb64",
   "lastOpenFiles": [
+    "Office/K8s commands.md",
+    "Office/Azure container registry.md",
+    "1.DevOps - Cloud/Kubernates notes/commands and arguments in docker.md",
+    "Office",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224120607.png",
     "1.DevOps - Cloud/Kubernates notes/Rolling updates and rollback deployments.md",
-    "1.DevOps - Cloud/Kubernates notes/commands and arguments in docker.md",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224114806.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224114700.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224114606.png",
@@ -230,7 +232,6 @@
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224111939.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224111754.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224111724.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224111714.png",
     "1.DevOps - Cloud/Kubernates notes/18. Authentication and authorization in Kubernetes.md",
     "1.DevOps - Cloud/Kubernates notes/ETCD.md",
     "AZ-104/1. Azure Index.md",
@@ -253,7 +254,6 @@
     "Learn English/1. Main.md",
     "2.DSA/string questions.md",
     "2.DSA/Mathematics for DSA.md",
-    "SQL/SQL handwritten notes.md",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "self learnings and improvements",
     "converter_config.json",
@@ -262,7 +262,6 @@
     "SQL",
     "Sem 8/Social media Analysis/sma2019qb.pdf",
     "Sem 8/Social media Analysis",
-    "Sem 8/Reinforcement Learning",
     "2.DSA/Linked list code.canvas"
   ]
 }
