@@ -19,3 +19,9 @@ encoded data
 
 
 ![[Pasted image 20250226004253.png]]
+
+
+![[Pasted image 20250226014231.png]]
+
+
+![[Pasted image 20250226014512.png]]]]
