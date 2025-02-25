@@ -75,8 +75,7 @@
               "title": "Drawing 2025-02-24 15.40.23.excalidraw"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5086555480957
+    "width": 213.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -227,8 +227,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "098b397aa671a5d3",
+  "active": "a04de6bfc3e76351",
   "lastOpenFiles": [
+    "resume/common.md",
     "tips and tricks/increase mouse cursor size in ubuntu.md",
     "Sem 8/Reinforcement Learning/Untitled 1.md",
     "tips and tricks",
@@ -267,7 +268,6 @@
     "Sem 8/Reinforcement Learning/Hinglish action-value.md",
     "Sem 8/Social media Analysis/Module 1.md",
     "Sem 8/Social media Analysis/0.Social media Analysis.md",
-    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
     "Sem 8/Reinforcement Learning/RL2019qb.pdf",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "self learnings and improvements",
