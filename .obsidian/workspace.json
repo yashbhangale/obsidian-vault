@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume/Resume Index.md",
+                "file": "Sem 8/Reinforcement Learning/Module 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resume Index"
+              "title": "Module 2"
             }
           },
           {
@@ -215,6 +215,8 @@
   },
   "active": "4619e60da931fdeb",
   "lastOpenFiles": [
+    "Office/Email examples and followups.md",
+    "resume/Resume Index.md",
     "resume/Pasted image 20250224174234.png",
     "1.DevOps - Cloud/Kubernates notes/Config Maps.md",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224162147.png",
@@ -237,7 +239,6 @@
     "Office/K8s commands.md",
     "1.DevOps - Cloud/Kubernates notes/commands and arguments in docker.md",
     "Office",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224120607.png",
     "1.DevOps - Cloud/Kubernates notes/ETCD.md",
     "AZ-104/1. Azure Index.md",
     "Java Learning/3. Time and Space Complexity.md",
@@ -252,7 +253,6 @@
     "Sem 8/Reinforcement Learning/Module 2.md",
     "Sem 8/Reinforcement Learning/hinglish.md",
     "Sem 8/Reinforcement Learning/Module 1.md",
-    "Pasted.md",
     "Sem 8/Reinforcement Learning/RL2019qb.pdf",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "self learnings and improvements",
