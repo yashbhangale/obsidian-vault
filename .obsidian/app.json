@@ -1,5 +1,9 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "showLineNumber": false,
+  "foldIndent": true,
+  "strictLineBreaks": false,
+  "spellcheck": false
 }
