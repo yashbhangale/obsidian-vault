@@ -11,10 +11,14 @@
             "id": "673959442c1b4d77",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sem 8/AAI/0. AAI Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. AAI Index"
             }
           },
           {
@@ -183,6 +187,8 @@
   },
   "active": "673959442c1b4d77",
   "lastOpenFiles": [
+    "Sem 8/AAI/aai2019qp.pdf",
+    "Sem 8/AAI/0. AAI Index.md",
     "Sem 8/Reinforcement Learning/Module 3.md",
     "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
     "Sem 8/Reinforcement Learning/Module 1.md",
@@ -221,8 +227,6 @@
     "Office/K8s commands.md",
     "1.DevOps - Cloud/Kubernates notes/commands and arguments in docker.md",
     "Office",
-    "1.DevOps - Cloud/Kubernates notes/ETCD.md",
-    "AZ-104/1. Azure Index.md",
     "Sem 8/Reinforcement Learning/RL2019qb.pdf",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "self learnings and improvements",
