@@ -101,4 +101,29 @@ GANs are trained using a **two-player adversarial game**, where **G and D are up
 - GANs are **powerful** for **generating realistic synthetic data**, but they are **challenging to train** due to mode collapse and instability.
 - Improvements like **WGAN, StyleGAN, and DCGAN** have made GANs more stable and useful in real-world applications.
 
+---
+
+# 2. **Comparison of Different Types of GANs**
+
+| **Feature**                        | **DCGAN (Deep Convolutional GAN)**                                                            | **WGAN (Wasserstein GAN)**                                                                   | **CycleGAN**                                                                                        | **Conditional GAN (cGAN)**                                                                                                        |
+| ---------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Definition**                     | Uses **convolutional layers** to improve GAN training for image generation.                   | Uses **Wasserstein loss** to improve training stability and avoid mode collapse.             | Performs **image-to-image translation** without paired data.                                        | Generates data based on **conditional inputs** (e.g., class labels, images).                                                      |
+| **Architecture**                   | Uses **CNNs** instead of fully connected layers for both **Generator** and **Discriminator**. | Modifies GAN loss function by introducing **Earth Mover’s Distance (Wasserstein Distance)**. | Uses **two GANs** (G1, G2) to transform images between two domains (X ↔ Y).                         | Uses an **extra conditional input** (label, image, or text) to control the output.                                                |
+| **Objective Function**             | Binary Cross-Entropy (BCE) loss for adversarial training.                                     | Wasserstein loss for more stable training.                                                   | Cycle-consistency loss ensures images can be mapped back to original.                               | Conditional loss function based on both input and generated data.                                                                 |
+| **Loss Function**                  | min⁡Gmax⁡DV(D,G)\min_G \max_D V(D, G) (Standard GAN loss).                                    | min⁡Gmax⁡DW(D,G)\min_G \max_D W(D, G) (Wasserstein loss with critic network).                | LGAN+λLcycle\mathcal{L}_{GAN} + \lambda \mathcal{L}_{cycle} (Adversarial + Cycle-consistency loss). | E[log⁡D(x,c)]+E[log⁡(1−D(G(z,c),c)]\mathbb{E}[\log D(x, c)] + \mathbb{E}[\log(1 - D(G(z, c), c)] (Includes conditional input cc). |
+| **Mode Collapse**                  | Can still occur.                                                                              | Reduces mode collapse by smoothing gradients.                                                | No mode collapse since it's not purely generative.                                                  | Can still experience mode collapse.                                                                                               |
+| **Training Stability**             | More stable than Vanilla GAN, but still suffers from issues like vanishing gradients.         | Much more stable due to Wasserstein loss and **gradient clipping**.                          | Stable training due to **cycle consistency loss**.                                                  | Stability depends on the conditional input distribution.                                                                          |
+| **Paired Training Data Required?** | No                                                                                            | No                                                                                           | No                                                                                                  | Yes (e.g., Pix2Pix requires paired data).                                                                                         |
+| **Use Cases**                      | Image synthesis, super-resolution, style transfer.                                            | High-quality image generation, text-to-image synthesis.                                      | Style transfer, domain adaptation, artistic transformations.                                        | Image segmentation, text-to-image generation, video prediction.                                                                   |
+| **Examples**                       | Generates realistic faces (StyleGAN, DeepFakes).                                              | Used in **WGAN-GP** for generating HQ images.                                                | **Horse ↔ Zebra**, **Summer ↔ Winter scenes**.                                                      | Pix2Pix (edges to images), text-to-image synthesis.                                                                               |
+
+---
+
+### **Key Takeaways**
+
+- **DCGAN**: Uses CNNs to improve GAN training for images.
+- **WGAN**: Solves mode collapse and instability with Wasserstein loss.
+- **CycleGAN**: Translates images between two domains **without paired data**.
+- **Conditional GAN (cGAN)**: Generates outputs based on **specific conditions** (e.g., labels, images).
+
 Let me know if you need further clarifications! 🚀
