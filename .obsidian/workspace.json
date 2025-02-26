@@ -22,20 +22,77 @@
             }
           },
           {
-            "id": "06dbc9f91359df0b",
+            "id": "0c36f53eeb9cb8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/k8s Secrets.md",
+                "file": "Sem 8/AAI/0. AAI Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "k8s Secrets"
+              "title": "0. AAI Index"
+            }
+          },
+          {
+            "id": "984999425b7df36e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 8/AAI/Module 1 AAI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module 1 AAI"
+            }
+          },
+          {
+            "id": "9c084b1454a23d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 8/AAI/Bayesian Network Hinglish.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Network Hinglish"
+            }
+          },
+          {
+            "id": "54cd4d34759696db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 8/AAI/hmm hinglish.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hmm hinglish"
+            }
+          },
+          {
+            "id": "156cc770c8681ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "For Job/search for jobs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "search for jobs"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -108,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 8/Reinforcement Learning/Module 2.md",
+                "file": "Sem 8/AAI/Module 1 AAI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Module 2"
+              "title": "Backlinks for Module 1 AAI"
             }
           },
           {
@@ -127,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main.md",
+                "file": "Sem 8/AAI/Module 1 AAI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from main"
+              "title": "Outgoing links from Module 1 AAI"
             }
           },
           {
@@ -156,12 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Sem 8/AAI/Module 1 AAI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Module 1 AAI"
             }
           }
         ],
@@ -169,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +243,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "673959442c1b4d77",
+  "active": "984999425b7df36e",
   "lastOpenFiles": [
-    "Sem 8/AAI/aai2019qp.pdf",
+    "Sem 8/AAI/Bayesian Network Hinglish.md",
+    "Sem 8/AAI/Pasted image 20250226134810.png",
+    "Sem 8/AAI/Module 1 AAI.md",
+    "Sem 8/AAI/hmm hinglish.md",
+    "Sem 8/AAI/Pasted image 20250226124645.png",
     "Sem 8/AAI/0. AAI Index.md",
+    "For Job/search for jobs.md",
+    "For Job",
+    "Sem 8/AAI/Pasted image 20250226110123.png",
+    "Sem 8/AAI/Pasted image 20250226110047.png",
+    "Sem 8/Social media Analysis/Module 1.md",
+    "Sem 8/AAI/Pastedimage20250201211156.png",
+    "Sem 8/AAI/Pastedimage20250201211133.png",
+    "Sem 8/AAI/aai2019qp.pdf",
     "Sem 8/Reinforcement Learning/Module 3.md",
     "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
     "Sem 8/Reinforcement Learning/Module 1.md",
@@ -199,12 +269,6 @@
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250226014348.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250226014231.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250226004253.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250226002357.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250226002330.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250226002323.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250226002308.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250226002207.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250226002059.png",
     "Misc/How To Read A Book Effectively.md",
     "resume/Untitled.md",
     "Misc",
@@ -220,19 +284,12 @@
     "resume/Resume Index.md",
     "1.DevOps - Cloud/Kubernates notes/Config Maps.md",
     "1.DevOps - Cloud/Kubernates notes/Env variables in k8s.md",
-    "Office/Azure container registry.md",
-    "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
-    "1.DevOps - Cloud/Kubernates notes/Rolling updates and rollback deployments.md",
     "Excalidraw",
-    "Office/K8s commands.md",
-    "1.DevOps - Cloud/Kubernates notes/commands and arguments in docker.md",
     "Office",
     "Sem 8/Reinforcement Learning/RL2019qb.pdf",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "self learnings and improvements",
     "converter_config.json",
-    "config.json",
-    "main.py",
     "2.DSA/Linked list code.canvas"
   ]
 }
