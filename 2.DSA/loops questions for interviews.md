@@ -2,7 +2,7 @@
 title: DSA loops questions for interviews
 date: 2025-01-04
 ---
-
+********
 Haan bhai, **loops ke questions** interview mein kaafi common hote hain, kyunki isse tumhari **logic building** aur **time complexity ka samajh** test karte hain. Chal, kuch **popular loop-based questions** aur unke approaches dekhte hain:
 
 ---
