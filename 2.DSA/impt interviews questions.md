@@ -1,4 +1,4 @@
-# two sum  [hash tables]
+/# two sum  [hash tables]
 
 video reference : https://www.youtube.com/watch?v=7jDS9KQEDbI
 
