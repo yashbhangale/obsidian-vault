@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,14 +215,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "53cf031c1a4ae795",
+  "active": "64ea59119feea75b",
   "lastOpenFiles": [
+    "Java Learning/4. Patterns.md",
     "resume/Resume optimiser prompts.md",
     "2.DSA/0. DSA Index.md",
     "resume/common.md",
     "2.DSA/impt interviews questions.md",
     "2.DSA/Pasted image 20250301000328.png",
-    "Java Learning/4. Patterns.md",
     "2.DSA/loops questions for interviews.md",
     "Java Learning/1. Basic Java.md",
     "Sem 8/Reinforcement Learning/Module 1.md",
