@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.DSA/impt interviews questions.md",
+                "file": "resume/Resume optimiser prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "impt interviews questions"
+              "title": "Resume optimiser prompts"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,11 +215,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "298a91923c42d0e4",
+  "active": "53cf031c1a4ae795",
   "lastOpenFiles": [
-    "2.DSA/Pasted image 20250301000328.png",
-    "2.DSA/impt interviews questions.md",
+    "resume/Resume optimiser prompts.md",
     "2.DSA/0. DSA Index.md",
+    "resume/common.md",
+    "2.DSA/impt interviews questions.md",
+    "2.DSA/Pasted image 20250301000328.png",
     "Java Learning/4. Patterns.md",
     "2.DSA/loops questions for interviews.md",
     "Java Learning/1. Basic Java.md",
@@ -247,7 +249,6 @@
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "Sem 8/AAI/Pasted image 20250226142946.png",
     "Sem 8/AAI/Pasted image 20250226142818.png",
-    "Sem 8/AAI/Pasted image 20250226142816.png",
     "For Job",
     "Sem 8/Social media Analysis/Module 1.md",
     "Sem 8/AAI/aai2019qp.pdf",
@@ -255,7 +256,6 @@
     "1.DevOps - Cloud/Kubernates notes/k8s Secrets.md",
     "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
     "Misc/How To Read A Book Effectively.md",
-    "resume/Untitled.md",
     "Misc",
     "tips and tricks",
     "Excalidraw",
