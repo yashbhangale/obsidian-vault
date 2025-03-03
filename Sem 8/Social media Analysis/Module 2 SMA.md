@@ -2,6 +2,8 @@
 
 ## 1. Basics of Social network sturcture
 
+**Six Degrees of Separation** is the theory that any two people in the world are connected through a chain of at most six social connections or acquaintances. It highlights the small-world phenomenon and the interconnected nature of social networks.
+
 ![[Pasted image 20250223120049.png]]
 
 #### **Definition of Social Network Structure**
@@ -50,19 +52,19 @@ These three elements form the foundation of **social network analysis (SNA)** an
     - **Complete Networks:** The entire set of connections among all members.
     - **Small-World Networks:** Most nodes are not directly connected, but can be reached through a few intermediaries.
     - **Scale-Free Networks:** Some nodes (hubs) have significantly more connections than others (e.g., influencers in social media).
-3. **Properties of Social Network Structure**
+
+2. **Properties of Social Network Structure**
     
     - **Density:** How interconnected the network is.
     - **Centrality:** Identifies important or influential nodes.
     - **Clustering Coefficient:** Measures how likely a node's neighbors are connected.
     - **Path Length:** The shortest route between two nodes.
+
 4. **Importance of Social Network Structure**
     
     - Helps analyze **information spread** (e.g., viral content).
     - Identifies **influencers** and key players.
     - Understands **community formations** (e.g., groups on Facebook).
     - Supports **recommendation systems** (e.g., "People You May Know" on LinkedIn).
-
-Social network structure plays a key role in **social media analytics, marketing, sociology, and AI-driven recommendations**. 🚀
 
 
