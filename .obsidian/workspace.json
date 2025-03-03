@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f81c6c39ea4108ba",
+        "id": "0d7c7b9bc921ad9b",
         "type": "tabs",
         "children": [
           {
-            "id": "423a8ebcb632d32c",
+            "id": "10975cfa6d853aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 8/Social media Analysis/Module 2 SMA.md",
+                "file": "Python learning/0.Python index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 2 SMA"
+              "title": "0.Python index"
+            }
+          },
+          {
+            "id": "331e19d9a30df3f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python learning/Python Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python Operators"
             }
           }
         ]
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.DSA/impt interviews questions.md",
+                "file": "Python learning/0.Python index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of impt interviews questions"
+              "title": "Outline of 0.Python index"
             }
           }
         ],
@@ -172,44 +186,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "423a8ebcb632d32c",
+  "active": "10975cfa6d853aad",
   "lastOpenFiles": [
+    "Python learning/Python Operators.md",
+    "Python learning/0.Python index.md",
+    "Python learning/Pasted image 20250304001234.png",
+    "Python learning/Pasted image 20250304001211.png",
+    "Python learning/Pasted image 20250304001126.png",
+    "Python learning/Pasted image 20250304001059.png",
+    "Python learning/Pasted image 20250304001035.png",
+    "SQL/SQL handwritten notes.md",
+    "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-02 15.25.41.excalidraw.md",
+    "Excalidraw/Pasted Image 20250224144852_992.png",
+    "Excalidraw/Drawing 2025-03-02 13.03.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-24 15.40.23.excalidraw.md",
+    "2.DSA/0. DSA Index.md",
+    "2.DSA/impt interviews questions.md",
+    "2.DSA/Hash SET.md",
+    "Python learning/python boolean.md",
+    "Python learning/String slicing.md",
+    "Python learning/Escape Character.md",
+    "Python learning/Pasted image 20250303233343.png",
+    "Python learning/Python strings.md",
+    "Python learning/Python numbers ---> Type conversion.md",
+    "Python learning/Python Datatypes.md",
+    "Python learning/Pasted image 20250303223410.png",
+    "Python learning/Pasted image 20250303223353.png",
+    "Python learning/Pasted image 20250303223315.png",
+    "Sem 8/Social media Analysis/Module 2 SMA.md",
+    "Python learning",
     "Sem 8/Social media Analysis/0.Social media Analysis.md",
     "For Job/search for jobs.md",
     "Sem 8/Social media Analysis/Module 3.md",
-    "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-24 15.40.23.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-02 13.03.41.excalidraw.md",
-    "Excalidraw/Pasted Image 20250302140709_259.png",
     "Sem 8/Social media Analysis/Module 1.md",
-    "2.DSA/0. DSA Index.md",
-    "Excalidraw/Drawing 2025-03-02 15.25.41.excalidraw.md",
-    "2.DSA/impt interviews questions.md",
-    "2.DSA/Hash SET.md",
-    "2.DSA/Pasted image 20250302152620.png",
-    "Excalidraw/Pasted Image 20250302152618_582.png",
     "2.DSA/1. Linked List.md",
-    "2.DSA/Pasted image 20250302140941.png",
     "Misc/misc.md",
     "Java Learning/4. Patterns.md",
     "Misc/How To Read A Book Effectively.md",
-    "2.DSA/loops questions for interviews.md",
-    "resume/Resume optimiser prompts.md",
-    "resume/common.md",
-    "2.DSA/Pasted image 20250301000328.png",
-    "Java Learning/1. Basic Java.md",
-    "Sem 8/Reinforcement Learning/Module 1.md",
-    "Sem 8/Reinforcement Learning/Module 3.md",
-    "Sem 8/Reinforcement Learning/Module 2.md",
-    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
-    "Sem 8/AAI/hmm hinglish.md",
-    "Sem 8/AAI/Bayesian Network Hinglish.md",
-    "Sem 8/AAI/Module 1 AAI.md",
-    "Sem 8/Reinforcement Learning/Pastedimage20250216221319.png",
-    "Sem 8/Reinforcement Learning/Pasted image 20250226161641.png",
-    "Sem 8/Reinforcement Learning/Pasted image 20250226161230.png",
-    "Sem 8/Reinforcement Learning/Pasted image 20250226155350.png",
-    "Sem 8/Reinforcement Learning/Pasted image 20250226155238.png",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "For Job",
     "Sem 8/AAI/aai2019qp.pdf",
@@ -219,7 +233,6 @@
     "Office",
     "Sem 8/Reinforcement Learning/RL2019qb.pdf",
     "self learnings and improvements",
-    "converter_config.json",
     "2.DSA/Linked list code.canvas"
   ]
 }
