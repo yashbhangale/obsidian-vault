@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "resume/common.md",
+      "timestamp": 1741075216203
+    },
+    {
+      "filepath": "Python learning/Python List.md",
+      "timestamp": 1741073305064
+    },
+    {
       "filepath": "Python learning/0.Python index.md",
-      "timestamp": 1741066463513
+      "timestamp": 1741073303906
+    },
+    {
+      "filepath": "Python learning/Python Operators.md",
+      "timestamp": 1741073296214
+    },
+    {
+      "filepath": "tips and tricks/increase mouse cursor size in ubuntu.md",
+      "timestamp": 1741073295528
     }
   ],
   "bookmarkedFileStore": [],
