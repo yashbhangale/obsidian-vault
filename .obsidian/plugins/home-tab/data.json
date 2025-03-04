@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "resume/common.md",
-      "timestamp": 1741075216203
-    },
-    {
-      "filepath": "Python learning/Python List.md",
-      "timestamp": 1741073305064
+      "filepath": "Python learning/Python Sets.md",
+      "timestamp": 1741094231124
     },
     {
       "filepath": "Python learning/0.Python index.md",
-      "timestamp": 1741073303906
+      "timestamp": 1741094215751
     },
     {
-      "filepath": "Python learning/Python Operators.md",
-      "timestamp": 1741073296214
+      "filepath": "Python learning/Python Tuples.md",
+      "timestamp": 1741093606832
+    },
+    {
+      "filepath": "resume/common.md",
+      "timestamp": 1741093606381
     },
     {
       "filepath": "tips and tricks/increase mouse cursor size in ubuntu.md",
-      "timestamp": 1741073295528
+      "timestamp": 1741093605362
     }
   ],
   "bookmarkedFileStore": [],
