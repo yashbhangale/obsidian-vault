@@ -6,3 +6,46 @@
 thisset = {"apple", "banana", "cherry", "apple"}  
 print(thisset)
 ```
+
+```python
+thisset = {"apple", "banana", "cherry"}  
+  
+print("banana" in thisset)
+# true
+```
+
+###### Add item in set
+
+```python
+thisset = {"apple","banana"}
+thisset.add("orange")
+print(thisset)
+```
+
+###### Update item in set
+
+```python
+thisset = {"apple", "banana", "cherry"}  
+tropical = {"pineapple", "mango", "papaya"}  
+  
+thisset.update(tropical)  
+  
+print(thisset)
+# {'apple', 'mango', 'cherry', 'pineapple', 'banana', 'papaya'}
+```
+
+###### Remove item in set
+
+```python
+thisset = {"apple", "banana", "cherry"}  
+thisset.remove("banana")  
+print(thisset)
+```
+
+
+
+
+###### Methods 
+
+![[Pasted image 20250305112257.png]]
+
