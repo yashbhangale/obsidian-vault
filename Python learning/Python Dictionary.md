@@ -57,3 +57,80 @@ thisdict = {
 x = thisdict["model"]
 ```
 
+##### Get Items
+The `items()` method will return each item in a dictionary, as tuples in a list.
+
+```python
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+x = thisdict.items()
+
+print(x)
+# dict_items([('brand', 'Ford'), ('model', 'Mustang'), ('year', 1964)])
+```
+
+```python
+car = {
+"brand": "Ford",
+"model": "Mustang",
+"year": 1964
+}
+
+x = car.items()
+
+print(x) #before the change
+
+car["year"] = 2020
+
+print(x) #after the change
+
+# dict_items([('brand', 'Ford'), ('model', 'Mustang'), ('year', 1964)])  
+# dict_items([('brand', 'Ford'), ('model', 'Mustang'), ('year', 2020)])
+```
+
+```python
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+if "model" in thisdict:
+  print("Yes, 'model' is one of the keys in the thisdict dictionary")
+
+# Yes, 'model' is one of the keys in the thisdict dictionary
+```
+
+##### Change Values
+```python
+thisdict =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+thisdict["year"] = 2018
+
+print(thisdict)
+
+# {'brand': 'Ford', 'model': 'Mustang', 'year': 2018}
+```
+
+```python
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+thisdict.update({"year": 2020})
+
+print(thisdict)
+# {'brand': 'Ford', 'model': 'Mustang', 'year': 2020}
+```
+
+![[Pasted image 20250305160427.png]]
+
+
