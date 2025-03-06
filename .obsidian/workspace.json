@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "eca867ae45d0f4f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "ce73ebc6262cae43",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,7 +267,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8723a389d572381e",
+  "active": "eca867ae45d0f4f6",
   "lastOpenFiles": [
     "Sem 8/EVS/Pasted image 20250305202415.png",
     "Sem 8/EVS/Module 1- EVS.md",
