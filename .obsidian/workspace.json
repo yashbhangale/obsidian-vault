@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "6775196cb70d048b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-06 23.31.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-06 23.31.20.excalidraw"
+            }
+          },
+          {
             "id": "ce73ebc6262cae43",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -267,8 +279,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eca867ae45d0f4f6",
+  "active": "6775196cb70d048b",
   "lastOpenFiles": [
+    "Excalidraw/Pasted Image 20250306234224_845.png",
+    "Excalidraw/Pasted Image 20250306233950_229.png",
+    "Excalidraw/Pasted Image 20250306233816_186.png",
+    "Excalidraw/Pasted Image 20250306233645_862.png",
+    "Excalidraw/Pasted Image 20250306233547_907.png",
+    "Excalidraw/Pasted Image 20250306233526_002.png",
+    "Excalidraw/Drawing 2025-03-06 23.31.20.excalidraw.md",
     "Sem 8/EVS/Pasted image 20250305202415.png",
     "Sem 8/EVS/Module 1- EVS.md",
     "Sem 8/EVS/0.EVS.md",
@@ -282,18 +301,12 @@
     "Excalidraw/Drawing 2025-03-05 16.09.23.excalidraw.md",
     "Excalidraw/Pasted Image 20250305161130_925.png",
     "Excalidraw/Pasted Image 20250305161033_223.png",
-    "Excalidraw/Pasted Image 20250305160957_092.png",
     "Python learning/Python Dictionary.md",
-    "Python learning/Pasted image 20250305160427.png",
     "Python learning/Python Sets.md",
-    "Python learning/Pasted image 20250305112257.png",
     "Python learning/Python Tuples.md",
     "resume/common.md",
     "tips and tricks/increase mouse cursor size in ubuntu.md",
     "Python learning/Python List.md",
-    "Python learning/Pasted image 20250304183454.png",
-    "resume/Pasted image 20250304133104.png",
-    "resume/Pasted image 20250304133018.png",
     "Python learning/Python Operators.md",
     "For Job/search for jobs.md",
     "Misc/misc.md",
@@ -305,7 +318,6 @@
     "2.DSA/0. DSA Index.md",
     "2.DSA/impt interviews questions.md",
     "2.DSA/Hash SET.md",
-    "Python learning/python boolean.md",
     "Python learning",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "For Job",
