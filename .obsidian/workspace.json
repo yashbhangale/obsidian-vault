@@ -4,131 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "0d7c7b9bc921ad9b",
+        "id": "32ef1bcb24a792d2",
         "type": "tabs",
         "children": [
           {
-            "id": "10975cfa6d853aad",
+            "id": "50e3e657a4a06923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python learning/0.Python index.md",
+                "file": "2.DSA/0. DSA Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.Python index"
+              "title": "0. DSA Index"
             }
           },
           {
-            "id": "fd23b3acaf9a51ef",
+            "id": "e92458c525ac87ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 8/EVS/0.EVS.md",
+                "file": "2.DSA/impt interviews questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.EVS"
+              "title": "impt interviews questions"
             }
           },
           {
-            "id": "8723a389d572381e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 8/EVS/Module 1- EVS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Module 1- EVS"
-            }
-          },
-          {
-            "id": "eca867ae45d0f4f6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "6775196cb70d048b",
+            "id": "99c9163493910741",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-06 23.31.20.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-06 23.31.20.excalidraw"
+              "title": "Drawing 2025-02-24 14.48.22.excalidraw"
             }
           },
           {
-            "id": "ce73ebc6262cae43",
+            "id": "9fcc811fbeb4baad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python learning/Python if... Else.md",
+                "file": "2.DSA/Hash SET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python if... Else"
-            }
-          },
-          {
-            "id": "53298059775ad950",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-05 16.09.23.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-05 16.09.23.excalidraw"
-            }
-          },
-          {
-            "id": "54e1b00ecc52a5bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python learning/Python Dictionary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python Dictionary"
-            }
-          },
-          {
-            "id": "904ff1fecb28a169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python learning/Python Sets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python Sets"
+              "title": "Hash SET"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,9 +213,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce73ebc6262cae43",
+  "active": "e92458c525ac87ac",
   "lastOpenFiles": [
+    "2.DSA/0. DSA Index.md",
+    "2.DSA/Hash SET.md",
+    "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
+    "2.DSA/impt interviews questions.md",
+    "Python learning/Python Sets.md",
+    "Python learning/Python Dictionary.md",
+    "Excalidraw/Drawing 2025-03-05 16.09.23.excalidraw.md",
+    "Python learning/0.Python index.md",
+    "Sem 8/EVS/Module 1- EVS.md",
     "Excalidraw/Drawing 2025-03-06 23.31.20.excalidraw.md",
+    "Python learning/Python if... Else.md",
     "Excalidraw/Pasted Image 20250306234224_845.png",
     "Excalidraw/Pasted Image 20250306233950_229.png",
     "Excalidraw/Pasted Image 20250306233816_186.png",
@@ -289,19 +233,13 @@
     "Excalidraw/Pasted Image 20250306233547_907.png",
     "Excalidraw/Pasted Image 20250306233526_002.png",
     "Sem 8/EVS/Pasted image 20250305202415.png",
-    "Sem 8/EVS/Module 1- EVS.md",
     "Sem 8/EVS/0.EVS.md",
     "Sem 8/Social media Analysis/Module 1.md",
     "Sem 8/EVS/Pastedimage20250201211504.png",
     "Sem 8/EVS/envmanagement2019qb.pdf",
     "Python learning/python while loops.md",
-    "Python learning/0.Python index.md",
-    "Python learning/Python if... Else.md",
     "Python learning/Pasted image 20250305161132.png",
-    "Excalidraw/Drawing 2025-03-05 16.09.23.excalidraw.md",
     "Excalidraw/Pasted Image 20250305161130_925.png",
-    "Python learning/Python Dictionary.md",
-    "Python learning/Python Sets.md",
     "Python learning/Python Tuples.md",
     "resume/common.md",
     "tips and tricks/increase mouse cursor size in ubuntu.md",
@@ -310,13 +248,9 @@
     "For Job/search for jobs.md",
     "Misc/misc.md",
     "SQL/SQL handwritten notes.md",
-    "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
     "Excalidraw/Drawing 2025-03-02 15.25.41.excalidraw.md",
     "Excalidraw/Drawing 2025-03-02 13.03.41.excalidraw.md",
     "Excalidraw/Drawing 2025-02-24 15.40.23.excalidraw.md",
-    "2.DSA/0. DSA Index.md",
-    "2.DSA/impt interviews questions.md",
-    "2.DSA/Hash SET.md",
     "Python learning",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "For Job",
