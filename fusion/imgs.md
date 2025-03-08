@@ -5,4 +5,4 @@
 
 # desktop base
 
-![[Pasted image 20250308171821.png]]
+![[ ]]
