@@ -1,3 +1,5 @@
+# [[Hash Map]]
+
 # two sum  [hash tables]
 
 video reference : https://www.youtube.com/watch?v=7jDS9KQEDbI
@@ -120,3 +122,53 @@ def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
 			seen.remove(n)
 	return res
 ```
+
+---
+
+# Majority Element - leetcode 169
+Given an array `nums` of size `n`, return _the majority element_.
+
+The majority element is the element that appears more than `⌊n / 2⌋` times. You may assume that the majority element always exists in the array.
+
+**Example 1:**
+
+**Input:** nums = [3,2,3]
+**Output:** 3
+
+**Example 2:**
+
+**Input:** nums = [2,2,1,1,1,2,2]
+**Output:** 2
+
+```python
+class solution;
+	def majorityElement(self, nums: List[int]) -> int:
+		count = {}
+		res, maxCount = 0,0
+
+		for n in nums:
+			count[n] = 1 + count.get(n,0)
+				res = n if count[n] > maxCount else res
+				maxCount = max(count[n], maxCount)
+		return res
+```
+
+time complexity = o(n)
+space complexity = o(n)
+
+
+solution no. 2
+https://youtu.be/7pnhv842keE?t=270
+
+```python
+class solution
+	def majorityElement(self, nums: List[int]) -> int:
+		res, count = 0,0
+		for n in nums:
+			if count == 0:
+				res = n
+			count += (1 if n == res else -1)
+		return res
+```
+
+
