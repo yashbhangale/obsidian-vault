@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Office/K8s commands.md",
-      "timestamp": 1741593720558
+      "timestamp": 1741593917230
+    },
+    {
+      "filepath": "Office/Email examples and followups.md",
+      "timestamp": 1741593871179
     },
     {
       "filepath": "Office/Azure container registry.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "2.DSA/Hash SET.md",
       "timestamp": 1741512369134
-    },
-    {
-      "filepath": "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
-      "timestamp": 1741512368834
     }
   ],
   "bookmarkedFileStore": [],
