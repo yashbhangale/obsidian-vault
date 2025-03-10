@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Office/Untitled.md",
+      "filepath": "Office/K8s commands.md",
+      "timestamp": 1741593720558
+    },
+    {
+      "filepath": "Office/Azure container registry.md",
+      "timestamp": 1741593719707
+    },
+    {
+      "filepath": "Office/dcgm error.md",
       "timestamp": 1741592750050
     },
     {
@@ -34,14 +42,6 @@
     {
       "filepath": "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
       "timestamp": 1741512368834
-    },
-    {
-      "filepath": "fusion/Pasted image 20250308171804.png",
-      "timestamp": 1741512368583
-    },
-    {
-      "filepath": "2.DSA/impt interviews questions.md",
-      "timestamp": 1741512367706
     }
   ],
   "bookmarkedFileStore": [],
