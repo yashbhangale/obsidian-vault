@@ -17,5 +17,4 @@ An **Init Container** in Kubernetes is a **special type of container** that runs
 
 kubectl edit pod 
 
-	![[Pasted image 20250312161125.png]]
-	
+![[Pasted image 20250312161125.png]]

@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,11 +202,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "95b75bdc9dc746fa",
+  "active": "1822a29f190c27de",
   "lastOpenFiles": [
+    "hehe.pub",
+    "hehe",
+    "1.DevOps - Cloud/Kubernates notes/Scaling in k8s.md",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250312162430.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250312162236.png",
-    "1.DevOps - Cloud/Kubernates notes/Scaling in k8s.md",
     "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
     "1.DevOps - Cloud/Kubernates notes/init containers.md",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250312161125.png",
@@ -235,7 +237,6 @@
     "Excalidraw/Pasted Image 20250306233816_186.png",
     "Excalidraw/Pasted Image 20250306233645_862.png",
     "Excalidraw/Pasted Image 20250306233547_907.png",
-    "Excalidraw/Pasted Image 20250306233526_002.png",
     "Sem 8/EVS/0.EVS.md",
     "Sem 8/Social media Analysis/Module 1.md",
     "Sem 8/EVS/envmanagement2019qb.pdf",
@@ -249,7 +250,6 @@
     "tips and tricks",
     "Excalidraw",
     "Office",
-    "Sem 8/Reinforcement Learning/RL2019qb.pdf",
     "2.DSA/Linked list code.canvas"
   ]
 }
