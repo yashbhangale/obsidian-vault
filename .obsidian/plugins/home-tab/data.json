@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "1.DevOps - Cloud/Kubernates notes/init containers.md",
-      "timestamp": 1741776967061
-    },
-    {
       "filepath": "1.DevOps - Cloud/Kubernates notes/Scaling in k8s.md",
-      "timestamp": 1741776755437
+      "timestamp": 1741780349377
     },
     {
       "filepath": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
-      "timestamp": 1741776683955
+      "timestamp": 1741778529388
+    },
+    {
+      "filepath": "1.DevOps - Cloud/Kubernates notes/init containers.md",
+      "timestamp": 1741776967061
     },
     {
       "filepath": "2.DSA/0. DSA Index.md",
