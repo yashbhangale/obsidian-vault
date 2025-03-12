@@ -24,8 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Office/K8s commands.md",
-      "timestamp": 1741700200423
+      "filepath": "1.DevOps - Cloud/Kubernates notes/Scaling in k8s.md",
+      "timestamp": 1741776755437
+    },
+    {
+      "filepath": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
+      "timestamp": 1741776683955
+    },
+    {
+      "filepath": "1.DevOps - Cloud/Kubernates notes/init containers.md",
+      "timestamp": 1741774363127
+    },
+    {
+      "filepath": "2.DSA/0. DSA Index.md",
+      "timestamp": 1741774319210
     }
   ],
   "bookmarkedFileStore": [],
