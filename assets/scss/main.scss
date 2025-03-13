@@ -28,7 +28,7 @@ $body-color: #ffffff;
 
 /* palette */
 $primary: #ffffff;
-$secondary: #747474;
+$secondary: #000000;
 $dark: $body-color;
 $light: $body-bg;
 $input-bg: tint-color($light, 15%);
@@ -88,6 +88,19 @@ p, li, a, span, div {
   background-color: shade-color($body-bg, 3%);
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
+
+  .navbar-brand {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: $body-color;
+    &:hover {
+      color: $body-color;
+    }
+    &:hover::after {
+      transform-origin: left;
+      transform: scaleX(1);
+    }
+  }
 }
 
 .logo {
