@@ -8,6 +8,10 @@ draft: false
 
 <br/>
 
+<div style="text-align: center;">
+  <img src="/img/sections/cloud.webp" alt="Cloud Computing" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;">
+</div>
+
 ## Why Choose HireMeFor.Cloud? 🚀
 
 At HireMeFor.Cloud, we're dedicated to providing top-tier training in Cloud Computing, DevOps practices, and Artificial Intelligence technologies. Our expert-led courses combine theoretical knowledge with hands-on experience to prepare you for real-world challenges in the tech industry.
@@ -20,6 +24,10 @@ We believe in learning by doing. Our courses are designed with a practical appro
 - **Project-Based Learning**: Build portfolio-worthy projects
 - **Industry-Relevant Skills**: Learn what employers are actually looking for
 - **Expert Instruction**: Learn from professionals with years of industry experience
+
+<div style="text-align: center;">
+  <img src="/img/sections/devops.webp" alt="DevOps Practices" style="max-width: 100%; height: auto; border-radius: 8px; margin: 20px 0;">
+</div>
 
 ## Our Core Training Areas 💻
 
@@ -41,6 +49,10 @@ Streamline development and operations with modern DevOps approaches:
 - **Containerization**: Docker, Kubernetes, ECS
 - **Configuration Management**: Ansible, Chef, Puppet
 - **Monitoring and Observability**: Prometheus, Grafana, ELK Stack
+
+<div style="text-align: center;">
+  <img src="/img/sections/ai.webp" alt="Artificial Intelligence" style="max-width: 100%; height: auto; border-radius: 8px; margin: 20px 0;">
+</div>
 
 ### Artificial Intelligence & Machine Learning
 
