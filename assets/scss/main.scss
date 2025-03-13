@@ -30,12 +30,12 @@
 /* REDEFINE REQUIRED VARIABLES */
 
 /* body color and background */
-$body-bg: #e8d6cb;
-$body-color: #0f1108;
+$body-bg: #000000;
+$body-color: #ffffff;
 
 /* palette */
-$primary: #73003c;
-$secondary: #e0dedc;
+$primary: #ffffff;
+$secondary: #747474;
 $dark: $body-color;
 $light: $body-bg;
 $input-bg: tint-color($light, 15%);

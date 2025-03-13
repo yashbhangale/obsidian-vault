@@ -1,6 +1,6 @@
-baseURL = 'https://example.com'
+baseURL = 'https://hiremefor.cloud'
 languageCode = ''
-title = 'Magnolia Default' # This can get overwritten by the single language files
+title = 'HireMeFor.Cloud' # This can get overwritten by the single language files
 defaultContentLanguage = 'en'
 # defaultContentLanguageInSubDir = true
 enableRobotsTXT = true

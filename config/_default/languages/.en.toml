@@ -1,139 +1,138 @@
 disabled = false
 languageCode = 'en-US'
 languageName = 'English'
-title = 'Magnolia' # This will go in the Header as well
-copyright = """Designed with [Hugo](https://gohugo.io/) by [Ludovico Caluori](https://github.com/ololiuhqui) 🎨 \n
- Licensed under [MIT license](https://github.com/ololiuhqui/magnolia-free-hugo-theme/blob/main/LICENSE.md) 📄""" # Please leave this here to give me and the tools i used some credit for the work, or BuyMeACoffee and change or remove the copyrightlink below :)
+title = 'HireMeFor.Cloud' # This will go in the Header as well
+copyright = """© 2024 HireMeFor.Cloud - All Rights Reserved"""
 contentDir = "content/en"
 
 
 # Change single params to "false" to remove from rendering
 [params]
-  subtitle = "Free Hugo theme" # This goes in the header and in the site title
+  subtitle = "Expert Cloud, DevOps & AI Training" # This goes in the header and in the site title
   # PAGES
   [params.homepage]
     # Notice that SEO meta tags (what appears in google search results) can be set
     # in individual pages frontmatters `/content/<page>`
     ###
-    preTitle = 'Free Hugo theme'
-    title = "Magnolia"
+    preTitle = 'Professional Training'
+    title = "HireMeFor.Cloud"
     # You can use some markdown safely here as long as you don't include line breaks
     intro= """
-### "Freedom makes us better humans, and makes us improve our status as a collective race faster."
+### "Empowering the next generation of cloud professionals through expert-led training and hands-on experience."
 ___
 
-**A simple, completely customizable, multilingual Hugo theme thought for professionals and small businesses.**
+**Comprehensive training programs in Cloud Computing, DevOps practices, and Artificial Intelligence technologies.**
 
-I built this theme with simplicity in mind, it is small and easily **customizable, responsive, modular and multilingual**. But it also leaves some space to further in-depth customization since it uses **Bootstrap** and **SCSS**.
+Our mission is to bridge the gap between theoretical knowledge and practical implementation in the rapidly evolving tech landscape. We offer specialized courses designed by industry experts to help you master the skills that employers are actively seeking.
 
-Here there's the [theme github page](https://github.com/ololiuhqui/magnolia-free-hugo-theme), to which you should refer if you seek for more details, make sure to star the repo!
+Whether you're looking to start a career in cloud technologies, enhance your DevOps practices, or explore the cutting edge of AI, our structured learning paths will guide you to success.
 
-Look at what this theme is capable to do on the features page, and see a beautiful contacts page example below.
+Explore our course offerings and start your journey to becoming a cloud professional today!
         """
-    mainButton = "Features"
-    mainButtonRef = "features" # Just write the name or slug of the page here
-    secondButton = "Contacts"
+    mainButton = "Our Courses"
+    mainButtonRef = "courses" # Just write the name or slug of the page here
+    secondButton = "Contact Us"
     secondButtonRef = "contacts" # Just write the name or slug of the page here
   # For the blog feed section (visible only if posts are rendered)
-    blogTitle = "Interesting Stories"
-    blogButton= "More Stories"
+    blogTitle = "Latest Articles & Resources"
+    blogButton= "View All Resources"
 
 [params.office]
-  title = "The Office"
- description = "This page can be easily customized by adding a google maps link to get directions towards your activity location."
- buttonText = "Get directions" 
- buttonLink = "https://maps.app.goo.gl/LzsPzRkTYSZ8SF3y8" # google maps "share" link here (for button)
- mapLink = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d382266.44569392945!2d-76.55832397784323!3d41.53770983690751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d93a77484bbb%3A0xfff27920ab9bfae8!2sScranton%2C%20Pennsylvania%2C%20Stati%20Uniti!5e0!3m2!1sit!2sit!4v1716459350324!5m2!1sit!2sit" # google maps "embed" link here
+  title = "Our Training Center"
+  description = "Visit our state-of-the-art training facility where we conduct hands-on workshops and in-person training sessions."
+  buttonText = "Get directions" 
+  buttonLink = "https://maps.app.goo.gl/LzsPzRkTYSZ8SF3y8" # google maps "share" link here (for button)
+  mapLink = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d382266.44569392945!2d-76.55832397784323!3d41.53770983690751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d93a77484bbb%3A0xfff27920ab9bfae8!2sScranton%2C%20Pennsylvania%2C%20Stati%20Uniti!5e0!3m2!1sit!2sit!4v1716459350324!5m2!1sit!2sit" # google maps "embed" link here
 
 [params.contacts]
   title = "Get in touch!"
-  formCallToAction = "This is a \"contact us\" example page, you can receive form responses on FormSpree."
-  socialCallToAction = "You can add your own social media links below!" # These are the same as in [params.social]
+  formCallToAction = "Have questions about our courses or need personalized training solutions? Reach out to our team of experts."
+  socialCallToAction = "Connect with us on social media for the latest updates and resources!" # These are the same as in [params.social]
   [params.contacts.form]
-    formspreeLink = "https://yourformspreelink.com" #subscribe to formspree and add the link for the form here
-    firstname = "Firstname*"
-    lastname = "Lastname*"
+    formspreeLink = "https://formspree.io/f/yourformid" #subscribe to formspree and add the link for the form here
+    firstname = "First Name*"
+    lastname = "Last Name*"
     email = "E-mail*"
     phone = "Phone Number*"
-    Inquiry = "Inquiry*"
-    checkbox = "I accept that my data will be processed in accordance with the law*"
+    Inquiry = "How can we help you?*"
+    checkbox = "I agree to receive communications about HireMeFor.Cloud services and events*"
     submitBtn = "Submit"
 [params.services]
-  title = "Features"
-  description = """ I built this theme with simplicity in mind, it is small and easily customizable, responsive, modular and multilingual. But it also leaves some space to further in-depth customization since it uses Bootstrap and SCSS.
-  This page also shows an example of how you can change the site`s page names: The site will use the `services.html` layout for this page, but the page will be called "Features" and the link will use the related permalink `/features`."""
+  title = "Our Courses"
+  description = """At HireMeFor.Cloud, we offer comprehensive training programs designed to equip you with the skills needed to excel in today's technology-driven job market. Our courses combine theoretical knowledge with hands-on practice, ensuring you're ready to tackle real-world challenges."""
   [params.services.list]
     # You can add as much params.services.list.<N> as you like
     [params.services.list.0]
-      title= "Responsive"
-      description= "The theme is fully responsive and shows perfectly on every screen size."
+      title= "Cloud Computing Fundamentals"
+      description= "Master the essentials of cloud platforms including AWS, Azure, and Google Cloud. Learn about cloud architecture, deployment models, and best practices for cloud migration."
     [params.services.list.01]
-      title = "Modular"
-      description= "Hide and show some elements easily from the config file."
+      title = "Advanced DevOps Practices"
+      description= "Dive deep into CI/CD pipelines, infrastructure as code, containerization with Docker, and orchestration with Kubernetes. Develop skills to automate and streamline development workflows."
     [params.services.list.02]
-      title = "Multilingual"
-      description= "The default content language is english (it can be changed), but you can add as many languages as you want very easily, the theme includes an italian language example and a dropdown menù for easily switching between languages. Permalinks can be localized in each language (eg. you can have `/contacts` for english and `/contatti` for italian)."
+      title = "AI & Machine Learning for Cloud"
+      description= "Explore how AI and ML technologies are transforming cloud services. Learn to implement and deploy machine learning models in cloud environments and leverage AI services offered by major cloud providers."
     [params.services.list.03]
-      title = "Customizable"
-      description= "The page content can be customized from within the config files."
+      title = "Cloud Security & Compliance"
+      description= "Understand the security challenges in cloud environments and learn strategies to protect cloud infrastructure. Cover compliance frameworks, identity management, and security automation."
     [params.services.list.04]
-      title = "SEO ready"
-      description= "Every page in /content has an easily customizable meta description and a unique meta title for better and easier indexing. The theme will use the image `static/img/meta-image` as meta image for Google, Meta and X."
+      title = "Serverless Architecture"
+      description= "Learn to build and deploy applications using serverless technologies. Understand event-driven architecture, function-as-a-service, and how to design cost-effective serverless solutions."
     [params.services.list.05]
-      title = "Google Analytics supported"
-      description= "Insert your Google Analytics tag in the `config.toml` file and be ready to track your site performances easily."
+      title = "Cloud Certification Preparation"
+      description= "Targeted courses to help you prepare for industry-recognized certifications from AWS, Microsoft Azure, Google Cloud, and more. Includes practice exams and hands-on labs."
     [params.services.list.06]
-      title = "Google Maps Included"
-      description= "The contact page can be easily customized by adding a google maps link to get directions towards your activity location."
+      title = "Custom Enterprise Training"
+      description= "Tailored training programs designed specifically for your organization's needs. We can develop customized curricula focusing on the technologies and skills most relevant to your business goals."
 
 [params.socials]
   enabled = true # enables/disables the whole social section in the footer
-  callToAction= "Get connected with us on social networks >"
+  callToAction= "Connect with us on social networks >"
       [[params.socials.link]]
         name = "github"
-        link = "https://github.com/ololiuhqui/magnolia-free-hugo-theme"
+        link = "https://github.com/hiremeforcloud"
       [[params.socials.link]]
         name = "linkedin"
-        link = ""
+        link = "https://linkedin.com/company/hiremeforcloud"
       [[params.socials.link]]
-        name = "whatsapp"
-        link = ""
-      # You can add other socials here by copypasting the above section and
-      # selecting the right name for the icon from here https://icons.getbootstrap.com/
+        name = "twitter"
+        link = "https://twitter.com/hiremeforcloud"
+      [[params.socials.link]]
+        name = "youtube"
+        link = "https://youtube.com/c/hiremeforcloud"
 
 [params.schedules] # Time schedules (eg. your office openming hours)
-  enabledFooter = false # This will add the schedules on the footer too
+  enabledFooter = true # This will add the schedules on the footer too
   enabledContacts = true # This will add the schedule to the contact page
-  title = "Office hours" # For contacts page only
+  title = "Training Hours" # For contacts page only
   [params.schedules.days]
   # Use something like "Monday: 9-13" for each day
   # if left empty it is disabled (default)
-    day1 = "Monday: 9am – 7pm"
-    day2 = "Tuesday: 9am – 7pm"
-    day3 = "Wednesday: 9am – 7pm"
-    day4 = "Thursday: 9am – 7pm"
-    day5 = "Friday: 9am – 7pm"
-    day6 = ""
+    day1 = "Monday: 9am – 6pm"
+    day2 = "Tuesday: 9am – 6pm"
+    day3 = "Wednesday: 9am – 6pm"
+    day4 = "Thursday: 9am – 6pm"
+    day5 = "Friday: 9am – 6pm"
+    day6 = "Saturday: 10am – 2pm (Online Only)"
     day7 = ""
 
 [params.footer]
-  extraDescription1 = "Straight outta Scranton city"
-  extraDescription2 = "VAT No. 0000000000"
+  extraDescription1 = "Transforming careers through expert cloud training"
+  extraDescription2 = "Registered Company #12345678"
   [params.footer.navigate]
   heading = "Navigate"   
   [params.footer.contacts]
   enabled = true # enables/disables the whole contacts section in footer
   heading = "Contact"
-  address = "Scranton 2865 Pouros Corners 55441-0788"
-  mail = "dundermifflin@fakemail.com"
-  mail2 = "dundermifflinorders@fakemail.com"
-  phone = "+00 0000000"
+  address = "123 Tech Plaza, Innovation District, San Francisco, CA 94105"
+  mail = "info@hiremefor.cloud"
+  mail2 = "training@hiremefor.cloud"
+  phone = "+1 (555) 123-4567"
   
 [params.notfound]
   title = "404, page not found" # text for 404 page
 
 [params.single] # for posts pages (visible only if posts are rendered)
-  similarContent= "Similar Content"
+  similarContent= "Related Resources"
   toc= "Table of Contents"
 
 [menus]
@@ -143,14 +142,18 @@ Look at what this theme is capable to do on the features page, and see a beautif
   pageRef = "/"
   weight = 1
   [[menus.main]]
-  name = "Features"
+  name = "Courses"
   pageRef = "pages/services"
   weight = 2
   [[menus.main]]
-  name = "The Office"
+  name = "Training Center"
   pageRef = "pages/office"
   weight = 3
   [[menus.main]]
-  name = "Contacts"
-  pageRef = "pages/contacts"
+  name = "About Us"
+  pageRef = "pages/about"
   weight = 4
+  [[menus.main]]
+  name = "Contact"
+  pageRef = "pages/contacts"
+  weight = 5
