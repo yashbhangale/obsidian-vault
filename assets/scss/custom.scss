@@ -88,19 +88,21 @@
 
 /* Custom Futuristic Cursor Styles */
 body {
-  cursor: none; /* Hide the default cursor */
+  cursor: none !important; /* Hide the default cursor with !important */
 }
 
 .custom-cursor {
   position: fixed;
-  width: 20px;
-  height: 20px;
+  width: 30px; /* Increased size */
+  height: 30px; /* Increased size */
   border-radius: 50%;
   pointer-events: none;
-  z-index: 9999;
-  mix-blend-mode: difference;
+  z-index: 99999; /* Increased z-index */
+  mix-blend-mode: normal; /* Changed from difference to normal */
   transition: transform 0.2s ease;
-  filter: drop-shadow(0 0 5px rgba(0, 255, 255, 0.7));
+  filter: drop-shadow(0 0 8px rgba(0, 255, 255, 0.9)); /* Increased glow */
+  top: 0;
+  left: 0;
 }
 
 .cursor-dot {
@@ -108,12 +110,12 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 8px;
-  height: 8px;
+  width: 12px; /* Increased size */
+  height: 12px; /* Increased size */
   background-color: #0ff; /* Cyan color for futuristic look */
   border-radius: 50%;
-  opacity: 0.8;
-  box-shadow: 0 0 10px #0ff, 0 0 20px #0ff;
+  opacity: 1; /* Full opacity */
+  box-shadow: 0 0 15px #0ff, 0 0 25px #0ff; /* Increased glow */
 }
 
 .cursor-ring {
@@ -122,20 +124,20 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  border: 2px solid rgba(0, 255, 255, 0.5);
+  border: 3px solid rgba(0, 255, 255, 0.8); /* Thicker border with higher opacity */
   border-radius: 50%;
   animation: pulse 1.5s infinite;
 }
 
 .cursor-glow {
   position: absolute;
-  top: -5px;
-  left: -5px;
-  width: calc(100% + 10px);
-  height: calc(100% + 10px);
-  background: radial-gradient(circle, rgba(0, 255, 255, 0.3) 0%, rgba(0, 255, 255, 0) 70%);
+  top: -10px;
+  left: -10px;
+  width: calc(100% + 20px);
+  height: calc(100% + 20px);
+  background: radial-gradient(circle, rgba(0, 255, 255, 0.5) 0%, rgba(0, 255, 255, 0) 70%);
   border-radius: 50%;
-  opacity: 0.5;
+  opacity: 0.8; /* Increased opacity */
 }
 
 .cursor-trail {
@@ -143,8 +145,8 @@ body {
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background-color: rgba(0, 255, 255, 0.3);
-  opacity: 0;
+  background-color: rgba(0, 255, 255, 0.5); /* Increased opacity */
+  opacity: 0.8; /* Increased opacity */
 }
 
 @keyframes pulse {
@@ -222,6 +224,8 @@ button:active ~ .custom-cursor,
   z-index: 9998;
   transform: translate(-50%, -50%);
   animation: ripple 0.5s linear forwards;
+  top: 0;
+  left: 0;
 }
 
 @keyframes ripple {

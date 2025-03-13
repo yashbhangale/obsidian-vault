@@ -1,7 +1,14 @@
 document.addEventListener('DOMContentLoaded', function() {
+  console.log('Custom cursor script loaded');
+  
   // Create cursor elements
   const cursor = document.createElement('div');
   cursor.className = 'custom-cursor';
+  cursor.style.position = 'fixed';
+  cursor.style.pointerEvents = 'none';
+  cursor.style.zIndex = '99999';
+  cursor.style.width = '30px';
+  cursor.style.height = '30px';
   
   const cursorDot = document.createElement('div');
   cursorDot.className = 'cursor-dot';
@@ -17,6 +24,16 @@ document.addEventListener('DOMContentLoaded', function() {
   cursor.appendChild(cursorRing);
   cursor.appendChild(cursorGlow);
   document.body.appendChild(cursor);
+  
+  console.log('Cursor elements created and appended to body');
+  
+  // Make sure cursor is visible initially
+  cursor.style.opacity = '1';
+  
+  // Set initial position to center of screen
+  cursor.style.top = '50%';
+  cursor.style.left = '50%';
+  cursor.style.transform = 'translate(-50%, -50%)';
   
   // Variables for cursor trail
   const trailCount = 8; // Increased trail count for more futuristic effect
@@ -37,10 +54,10 @@ document.addEventListener('DOMContentLoaded', function() {
   }
   
   // Variables for cursor position
-  let mouseX = 0;
-  let mouseY = 0;
-  let cursorX = 0;
-  let cursorY = 0;
+  let mouseX = window.innerWidth / 2;
+  let mouseY = window.innerHeight / 2;
+  let cursorX = mouseX;
+  let cursorY = mouseY;
   let velocity = { x: 0, y: 0 }; // Track velocity for more dynamic movement
   
   // Update cursor position with smooth animation
@@ -55,7 +72,10 @@ document.addEventListener('DOMContentLoaded', function() {
     cursorX += velocity.x * 0.15;
     cursorY += velocity.y * 0.15;
     
-    cursor.style.transform = `translate(${cursorX}px, ${cursorY}px)`;
+    // Direct positioning instead of transform
+    cursor.style.left = `${cursorX}px`;
+    cursor.style.top = `${cursorY}px`;
+    cursor.style.transform = 'translate(-50%, -50%)';
     
     // Rotate cursor based on movement direction for futuristic effect
     if (Math.abs(velocity.x) > 0.1 || Math.abs(velocity.y) > 0.1) {
@@ -70,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
         trail.x = mouseX - (velocity.x * (index * 2));
         trail.y = mouseY - (velocity.y * (index * 2));
         
-        trail.element.style.transform = `translate(${trail.x}px, ${trail.y}px) scale(${1 - trailFactor})`;
+        trail.element.style.transform = `translate(${trail.x - cursorX}px, ${trail.y - cursorY}px) scale(${1 - trailFactor})`;
         trail.element.style.opacity = 0.7 - (trailFactor * 0.7);
       }
     });
@@ -82,26 +102,30 @@ document.addEventListener('DOMContentLoaded', function() {
   document.addEventListener('mousemove', function(e) {
     mouseX = e.clientX;
     mouseY = e.clientY;
+    console.log('Mouse moved to:', mouseX, mouseY);
   });
   
   // Handle mouse enter/leave document
   document.addEventListener('mouseenter', function() {
     cursor.style.opacity = 1;
+    console.log('Mouse entered document');
   });
   
   document.addEventListener('mouseleave', function() {
     cursor.style.opacity = 0;
+    console.log('Mouse left document');
   });
   
   // Handle click animation
-  document.addEventListener('mousedown', function() {
+  document.addEventListener('mousedown', function(e) {
     cursor.classList.add('cursor-click');
+    console.log('Mouse clicked');
     
     // Create ripple effect on click
     const ripple = document.createElement('div');
     ripple.className = 'cursor-ripple';
-    ripple.style.left = mouseX + 'px';
-    ripple.style.top = mouseY + 'px';
+    ripple.style.left = e.clientX + 'px';
+    ripple.style.top = e.clientY + 'px';
     document.body.appendChild(ripple);
     
     // Remove ripple after animation completes
@@ -113,6 +137,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Start animation loop
   updateCursorPosition();
+  console.log('Animation loop started');
   
   // Add hover effect for interactive elements
   const interactiveElements = document.querySelectorAll('a, button, input, select, textarea, [role="button"]');
@@ -146,4 +171,7 @@ document.addEventListener('DOMContentLoaded', function() {
     mouseX = e.clientX - (distX * 0.2);
     mouseY = e.clientY - (distY * 0.2);
   }
+  
+  // Add a fallback cursor in case the custom one fails
+  document.body.style.cursor = 'none';
 }); 

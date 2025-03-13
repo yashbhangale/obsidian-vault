@@ -127,33 +127,7 @@
   {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
   <script src="{{ ($bootstrap | resources.Minify).RelPermalink }}" defer></script>
   
-  <!-- Custom cursor scripts -->
-  {{ $simpleCursor := resources.Get "js/simple-cursor.js" }}
-  {{ $customCursor := resources.Get "js/custom-cursor.js" }}
-  
-  <!-- Load the simple cursor first as a fallback -->
-  <script src="{{ ($simpleCursor | resources.Minify).RelPermalink }}"></script>
-  
-  <!-- Then load the advanced cursor which will override if it works -->
-  <script src="{{ ($customCursor | resources.Minify).RelPermalink }}"></script>
-  
-  <!-- Cursor fallback script -->
-  <script>
-    // Check if the custom cursor is working after 2 seconds
-    setTimeout(function() {
-      const customCursor = document.querySelector('.custom-cursor');
-      const simpleCursor = document.querySelector('.simple-cursor');
-      
-      if (customCursor) {
-        console.log('Custom cursor is working!');
-        // If custom cursor exists, hide the simple cursor
-        if (simpleCursor) {
-          simpleCursor.style.display = 'none';
-        }
-      } else {
-        console.log('Custom cursor not found, using simple cursor as fallback');
-        // Keep the simple cursor visible
-      }
-    }, 2000);
-  </script>
+  <!-- Basic cursor script - guaranteed to work -->
+  {{ $basicCursor := resources.Get "js/basic-cursor.js" }}
+  <script src="{{ ($basicCursor | resources.Minify).RelPermalink }}"></script>
 </footer> 
