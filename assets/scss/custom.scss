@@ -100,6 +100,7 @@ body {
   z-index: 9999;
   mix-blend-mode: difference;
   transition: transform 0.2s ease;
+  filter: drop-shadow(0 0 5px rgba(0, 255, 255, 0.7));
 }
 
 .cursor-dot {
@@ -109,9 +110,10 @@ body {
   transform: translate(-50%, -50%);
   width: 8px;
   height: 8px;
-  background-color: #fff;
+  background-color: #0ff; /* Cyan color for futuristic look */
   border-radius: 50%;
   opacity: 0.8;
+  box-shadow: 0 0 10px #0ff, 0 0 20px #0ff;
 }
 
 .cursor-ring {
@@ -120,7 +122,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  border: 2px solid rgba(255, 255, 255, 0.5);
+  border: 2px solid rgba(0, 255, 255, 0.5);
   border-radius: 50%;
   animation: pulse 1.5s infinite;
 }
@@ -131,7 +133,7 @@ body {
   left: -5px;
   width: calc(100% + 10px);
   height: calc(100% + 10px);
-  background: radial-gradient(circle, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 70%);
+  background: radial-gradient(circle, rgba(0, 255, 255, 0.3) 0%, rgba(0, 255, 255, 0) 70%);
   border-radius: 50%;
   opacity: 0.5;
 }
@@ -141,7 +143,7 @@ body {
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(0, 255, 255, 0.3);
   opacity: 0;
 }
 
@@ -172,4 +174,96 @@ a:active ~ .custom-cursor,
 button:active ~ .custom-cursor,
 .clickable:active ~ .custom-cursor {
   transform: scale(0.9);
+}
+
+/* Cursor click and hover effects */
+.cursor-click .cursor-ring {
+  animation: click-pulse 0.5s forwards;
+}
+
+.cursor-hover {
+  transform: scale(1.5);
+}
+
+.cursor-hover .cursor-ring {
+  border-color: rgba(0, 255, 255, 0.8);
+}
+
+.cursor-hover .cursor-glow {
+  opacity: 0.8;
+  background: radial-gradient(circle, rgba(0, 255, 255, 0.5) 0%, rgba(0, 255, 255, 0) 70%);
+}
+
+@keyframes click-pulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 0.5;
+    border-color: rgba(0, 255, 255, 1);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Cursor click ripple effect */
+.cursor-ripple {
+  position: fixed;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: transparent;
+  border: 2px solid rgba(0, 255, 255, 0.8);
+  pointer-events: none;
+  z-index: 9998;
+  transform: translate(-50%, -50%);
+  animation: ripple 0.5s linear forwards;
+}
+
+@keyframes ripple {
+  0% {
+    width: 10px;
+    height: 10px;
+    opacity: 1;
+  }
+  100% {
+    width: 80px;
+    height: 80px;
+    opacity: 0;
+  }
+}
+
+/* Cursor scanning line effect */
+.cursor-ring::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: rgba(0, 255, 255, 0.8);
+  animation: scanning 2s linear infinite;
+}
+
+@keyframes scanning {
+  0% {
+    top: 0;
+    opacity: 0.8;
+  }
+  50% {
+    top: 100%;
+    opacity: 0.5;
+  }
+  51% {
+    top: 0;
+    opacity: 0.5;
+  }
+  100% {
+    top: 0;
+    opacity: 0.8;
+  }
 }
