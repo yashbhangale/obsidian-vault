@@ -6,6 +6,8 @@ draft: false
 
 <h1 style="text-align: center;">Accelerate Your Cloud Career</h1>
 
+<br/>
+
 ## Why Choose HireMeFor.Cloud? 🚀
 
 At HireMeFor.Cloud, we're dedicated to providing top-tier training in Cloud Computing, DevOps practices, and Artificial Intelligence technologies. Our expert-led courses combine theoretical knowledge with hands-on experience to prepare you for real-world challenges in the tech industry.
