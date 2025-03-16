@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfef294b8699396a",
+        "id": "3f10f24b3bce2b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "ae563e16edd6d3dc",
+            "id": "a9ba3e9bc093ef86",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -168,7 +168,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ae563e16edd6d3dc",
+  "active": "a9ba3e9bc093ef86",
   "lastOpenFiles": [
     "1.DevOps - Cloud/Kubernates notes/init containers.md",
     "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
