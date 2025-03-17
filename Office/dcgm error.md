@@ -120,3 +120,10 @@ Enable missing modules with:
 ```bash
 dcgmi modules -e <module_name>
 ```
+
+
+
+command for matrics
+```
+kubectl port-forward -n=default dcgm-exporter-w75cd  9400:9400
+```
