@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Office/K8s commands.md",
-      "timestamp": 1742189973486
-    },
-    {
       "filepath": "Office/Azure container registry.md",
-      "timestamp": 1742189972308
+      "timestamp": 1742384241123
     },
     {
       "filepath": "Office/dcgm error.md",
-      "timestamp": 1742188797634
+      "timestamp": 1742384240299
     },
     {
-      "filepath": "Certifications/AWS free certifications.md",
-      "timestamp": 1742188782100
+      "filepath": "Office/karan-sankhe app.md",
+      "timestamp": 1742384238519
+    },
+    {
+      "filepath": "Office/K8s commands.md",
+      "timestamp": 1742384236378
+    },
+    {
+      "filepath": "Office/Email examples and followups.md",
+      "timestamp": 1742384228819
     }
   ],
   "bookmarkedFileStore": [],
