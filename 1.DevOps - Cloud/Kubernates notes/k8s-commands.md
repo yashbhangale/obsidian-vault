@@ -128,3 +128,9 @@ k create secret generic db-secret --from-literal=DB_Host=sql01 --from-literal=DB
 ```
 
 
+# To unschedule nodes use command
+
+```
+kubectl drain node01 --ignore-daemonsets
+```
+

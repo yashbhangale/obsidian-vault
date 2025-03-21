@@ -104,3 +104,11 @@ Filesystem      Size  Used Avail Use% Mounted on
 ---
 
 Let me know if you need more help with CLI commands! 🚀
+
+
+
+
+to assigin any command to shortcut 
+```
+alias k=kubectl #Directly inside terminal
+```

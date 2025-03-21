@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Office/Azure container registry.md",
-      "timestamp": 1742384241123
+      "filepath": "1.DevOps - Cloud/Linux/Linux Index.md",
+      "timestamp": 1742592201218
     },
     {
-      "filepath": "Office/dcgm error.md",
-      "timestamp": 1742384240299
+      "filepath": "1.DevOps - Cloud/Kubernates notes/cluster maintainance.md",
+      "timestamp": 1742591578157
     },
     {
-      "filepath": "Office/karan-sankhe app.md",
-      "timestamp": 1742384238519
+      "filepath": "1.DevOps - Cloud/Kubernates notes/k8s-commands.md",
+      "timestamp": 1742591523251
     },
     {
-      "filepath": "Office/K8s commands.md",
-      "timestamp": 1742384236378
+      "filepath": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
+      "timestamp": 1742591519779
     },
     {
-      "filepath": "Office/Email examples and followups.md",
-      "timestamp": 1742384228819
+      "filepath": "2.DSA/0. DSA Index.md",
+      "timestamp": 1742591516811
     }
   ],
   "bookmarkedFileStore": [],
