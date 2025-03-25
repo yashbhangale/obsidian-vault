@@ -7,12 +7,12 @@ title: functions in java
 
 
 
-/*
+ /*
 return_type name (arguments) {
 	//body
 	return statement
 }
-*/
+*/ 
 
 
 
