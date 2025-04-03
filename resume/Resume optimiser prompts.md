@@ -368,3 +368,6 @@ To ensure 99% accurate responses:
   
 
 This prompt will empower your LLM to deliver expert-level resume optimization, helping users achieve ATS scores of 95% or higher for DevOps, SRE, and Cloud Engineer roles. Let me know if you'd like to refine it further!
+
+
+# STAR

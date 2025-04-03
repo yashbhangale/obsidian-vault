@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3f10f24b3bce2b6f",
+        "id": "fef8249eca7c774a",
         "type": "tabs",
         "children": [
           {
-            "id": "a9ba3e9bc093ef86",
+            "id": "7f7be117a82d0426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.DSA/0. DSA Index.md",
+                "file": "IA 2 Prep/AAI/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. DSA Index"
-            }
-          },
-          {
-            "id": "0b8aa2702b77f6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. kubernates index"
-            }
-          },
-          {
-            "id": "682fcfca094dc84d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.DSA/Mathematics for DSA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mathematics for DSA"
-            }
-          },
-          {
-            "id": "49d64ff6f7f66640",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. kubernates index"
-            }
-          },
-          {
-            "id": "9bbc934ae4e403e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/k8s-commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "k8s-commands"
-            }
-          },
-          {
-            "id": "6ff1889b70f7577a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/misc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "misc"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5086555480957
+    "width": 200
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -213,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python learning/0.Python index.md",
+                "file": "IA 2 Prep/AAI/Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0.Python index"
+              "title": "Outline of Index"
             }
           }
         ],
@@ -227,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,53 +171,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "682fcfca094dc84d",
+  "active": "7f7be117a82d0426",
   "lastOpenFiles": [
-    "2.DSA/Linked list code.canvas",
-    "2.DSA/loops questions for interviews.md",
-    "2.DSA/Leetcode.md",
-    "2.DSA/hinglish explaination of code.md",
-    "2.DSA/Hashset vs Treeset.md",
-    "2.DSA/Pastedimage20241115153756.png",
-    "2.DSA/Hash Map.md",
-    "2.DSA/Hash SET.md",
-    "2.DSA/functions in java.md",
-    "2.DSA/0. DSA Index.md",
-    "1.DevOps - Cloud/Pastedimage20250205114623.png",
-    "1.DevOps - Cloud/Pastedimage20250205113904.png",
-    "1.DevOps - Cloud/Github Actions.md",
-    "1.DevOps - Cloud/1.DevOps_Index.excalidraw.md",
-    "1.DevOps - Cloud/ArgoCD.md",
-    "1.DevOps - Cloud/1. DevOps Index.md",
-    "Office/logs wala kaam.md",
-    "Office/Multiline logs.md",
-    "Office/karan-sankhe app.md",
-    "Office/K8s commands.md",
-    "Office/signoz alerts/high cpu Memory Usage.md",
-    "1.DevOps - Cloud/Kubernates notes/cluster maintainance.md",
-    "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
-    "1.DevOps - Cloud/SignoZ/0. Signoz Index.md",
-    "1.DevOps - Cloud/SignoZ/2. Signoz alerts.md",
-    "Office/Email examples and followups.md",
-    "Office/dcgm error resolved now metrics to signoz.md",
-    "Office/dcgm error.md",
-    "Office/signoz alerts",
-    "1.DevOps - Cloud/powershell/powershell index.md",
-    "1.DevOps - Cloud/powershell",
-    "Certifications",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250312172231.png",
-    "hehe.pub",
-    "hehe",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250312162430.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250312162236.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250312161125.png",
-    "fusion/Pasted image 20250308171804.png",
-    "fusion/Pasted image 20250308171821.png",
-    "Excalidraw/Pasted Image 20250306234224_845.png",
-    "Sem 8/EVS/envmanagement2019qb.pdf",
-    "Python learning",
+    "IA 2 Prep/AAI/Pasted image 20250403183931.png",
+    "IA 2 Prep/AAI/Pasted image 20250403183915.png",
+    "IA 2 Prep/AAI/Pasted image 20250403183228.png",
+    "IA 2 Prep/AAI/Pasted image 20250403183205.png",
+    "IA 2 Prep/AAI/Pasted image 20250403181457.png",
+    "IA 2 Prep/AAI/Pasted image 20250403181351.png",
+    "IA 2 Prep/AAI/Pasted image 20250403163510.png",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
-    "For Job",
-    "Sem 8/AAI/aai2019qp.pdf"
+    "IA 2 Prep/AAI/Index.md",
+    "Office/integration of hoppscotch/Index.md",
+    "IA 2 Prep/Untitled.md",
+    "IA 2 Prep/AAI",
+    "IA 2 Prep",
+    "linkedin.md",
+    "Pasted image 20250401214506.png",
+    "Memes/index.md",
+    "Memes/Pasted image 20250403113930.png",
+    "Memes/Pasted image 20250403113848.png",
+    "linkedin/posts.md",
+    "Memes",
+    "Office/karan-sankhe app.md",
+    "Office/integration of hoppscotch",
+    "Learn English/vocabulary.md",
+    "linkedin",
+    "Misc/misc.md",
+    "1.DevOps - Cloud/Kubernates notes/k8s-commands.md",
+    "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
+    "Office/IT Support Automation Scripts/Administrator Side.md",
+    "tips and tricks/Start vm network in kvm.md",
+    "2.DSA/Call Stack - function call stack.md",
+    "1.DevOps - Cloud/1. DevOps Index.md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/linkedin.md",
+    "Excalidraw/Pasted image 20250401214444.png",
+    "Excalidraw/Drawing 2025-04-01 21.34.46.excalidraw.md",
+    "Office/IT Support Automation Scripts/User Scripts.md",
+    "Office/dcgm error.md",
+    "Office/Email examples and followups.md",
+    "Office/Azure container registry.md",
+    "1.DevOps - Cloud/Github Actions.md",
+    "1.DevOps - Cloud/git/Git Index.md",
+    "1.DevOps - Cloud/ArgoCD.md",
+    "Office/IT Support Automation Scripts",
+    "2.DSA/Linked list code.canvas",
+    "Office/signoz alerts",
+    "1.DevOps - Cloud/powershell",
+    "Certifications"
   ]
 }
