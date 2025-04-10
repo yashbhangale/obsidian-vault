@@ -27,16 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 8/Social media Analysis/Module 4.md",
+                "file": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 4"
+              "title": "0. kubernates index"
+            }
+          },
+          {
+            "id": "2e7491f42c2a5e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secrets/main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main"
+            }
+          },
+          {
+            "id": "a2a7835be7dbc5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Office/modify and build.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "modify and build"
+            }
+          },
+          {
+            "id": "0519170a0a65c2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.DevOps - Cloud/Linux/Linux Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 8/Social media Analysis/Module 4.md",
+                "file": "Secrets/main.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Module 4"
+              "title": "Outline of main"
             }
           }
         ],
@@ -186,10 +228,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31fec98032990a0e",
+  "active": "16caefe5e3afb1f5",
   "lastOpenFiles": [
-    "Sem 8/Social media Analysis/0.Social media Analysis.md",
+    "1.DevOps - Cloud/Helm",
+    "1.DevOps - Cloud/Kubernates notes/k8s-commands.md",
+    "Secrets/main.md",
+    "Secrets",
+    "Secrates/main",
+    "Secrates",
+    "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
+    "Office/karan-sankhe app.md",
+    "Office/modify and build.md",
+    "1.DevOps - Cloud/Linux/Linux Index.md",
+    "1.DevOps - Cloud/Kubernates notes/ssh into nodes.md",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250407231423.png",
     "Sem 8/Social media Analysis/Module 4.md",
+    "Sem 8/Social media Analysis/0.Social media Analysis.md",
     "Sem 8/Social media Analysis/Pasted image 20250407220637.png",
     "IA 2 Prep/RL/Index.md",
     "IA 2 Prep/RL/Pasted image 20250406212158.png",
@@ -200,7 +254,6 @@
     "IA 2 Prep/RL/Pasted image 20250406205747.png",
     "IA 2 Prep/RL/Pasted image 20250406205127.png",
     "IA 2 Prep/RL/Pasted image 20250406205058.png",
-    "IA 2 Prep/RL/Pasted image 20250406104817.png",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "IA 2 Prep/RL",
     "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
@@ -215,24 +268,14 @@
     "Memes/index.md",
     "linkedin/posts.md",
     "Memes",
-    "Office/karan-sankhe app.md",
     "Office/integration of hoppscotch",
     "Learn English/vocabulary.md",
-    "linkedin",
     "Misc/misc.md",
-    "1.DevOps - Cloud/Kubernates notes/k8s-commands.md",
-    "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
     "Office/IT Support Automation Scripts/Administrator Side.md",
     "tips and tricks/Start vm network in kvm.md",
     "2.DSA/Call Stack - function call stack.md",
     "1.DevOps - Cloud/1. DevOps Index.md",
     "Excalidraw/Untitled.md",
-    "Excalidraw/linkedin.md",
-    "Excalidraw/Drawing 2025-04-01 21.34.46.excalidraw.md",
-    "Office/IT Support Automation Scripts/User Scripts.md",
-    "Office/dcgm error.md",
-    "Office/IT Support Automation Scripts",
-    "2.DSA/Linked list code.canvas",
-    "Office/signoz alerts"
+    "2.DSA/Linked list code.canvas"
   ]
 }

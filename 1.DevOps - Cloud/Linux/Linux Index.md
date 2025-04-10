@@ -112,3 +112,18 @@ to assigin any command to shortcut
 ```
 alias k=kubectl #Directly inside terminal
 ```
+
+
+
+
+# command to list all running processes, and filters the outpu
+
+List processes
+
+```
+ps -ef | grep -i 
+```
+
+
+
+	

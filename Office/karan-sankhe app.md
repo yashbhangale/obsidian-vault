@@ -3,6 +3,9 @@ docker build -t scogo.azurecr.io/reseller_mod:0.1 .
 ```
 
 
+[[modify and build ]]
+
+
 
 workig app 
 

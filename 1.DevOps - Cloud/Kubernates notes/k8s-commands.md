@@ -134,3 +134,24 @@ k create secret generic db-secret --from-literal=DB_Host=sql01 --from-literal=DB
 kubectl drain node01 --ignore-daemonsets
 ```
 
+
+
+
+
+# -o wide command
+
+```
+k get po -n kube-system -o wide
+```
+
+
+# use context command
+```
+kubectl config use-context cluster1
+```
+
+
+```
+kubectl get node
+```
+
