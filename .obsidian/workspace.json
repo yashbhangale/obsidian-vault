@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office/meeting.md",
+                "file": "Office/karan sir shared things/karan sir shared things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meeting"
+              "title": "karan sir shared things"
             }
           }
         ]
@@ -174,9 +174,13 @@
   },
   "active": "e40b1b41ac0bcea7",
   "lastOpenFiles": [
+    "Office/karan sir shared things/Pasted image 20250415172119.png",
+    "Office/karan sir shared things/Pasted image 20250415165542.png",
+    "Office/meeting.md",
+    "Office/karan sir shared things/karan sir shared things.md",
+    "Office/karan sir shared things",
     "Office/Pasted image 20250415143200.png",
     "Office/Rmm Scripts/Windows Update Script.md",
-    "Office/meeting.md",
     "Office/Rmm Scripts/Pasted image 20250415103755.png",
     "Office/Rmm Scripts/Pasted image 20250415103708.png",
     "Office/Rmm Scripts/Pasted image 20250415103530.png",
@@ -206,20 +210,16 @@
     "1.DevOps - Cloud/Kubernates notes/k8s-commands.md",
     "Secrets",
     "Secrates/main",
-    "Secrates",
     "Office/karan-sankhe app.md",
     "1.DevOps - Cloud/Kubernates notes/ssh into nodes.md",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250407231423.png",
     "Sem 8/Social media Analysis/Module 4.md",
     "Sem 8/Social media Analysis/Pasted image 20250407220637.png",
     "IA 2 Prep/RL/Index.md",
-    "IA 2 Prep/RL/Pasted image 20250406212158.png",
-    "IA 2 Prep/RL/Pasted image 20250406212140.png",
     "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
     "Template/properties.md",
     "IA 2 Prep/AAI/Index.md",
     "IA 2 Prep/Untitled.md",
-    "linkedin.md",
     "2.DSA/Linked list code.canvas"
   ]
 }
