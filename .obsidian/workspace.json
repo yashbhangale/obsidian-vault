@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office/karan sir shared things/karan sir shared things.md",
+                "file": "Sem 8/Viva/RL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "karan sir shared things"
+              "title": "RL"
+            }
+          },
+          {
+            "id": "d20e337f8c3ee7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 8/Viva/Detail formate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Detail formate"
+            }
+          },
+          {
+            "id": "c3faa2c2c5b888c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Office/karan sir shared things/errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "errors"
             }
           }
         ]
@@ -78,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -174,52 +203,52 @@
   },
   "active": "e40b1b41ac0bcea7",
   "lastOpenFiles": [
-    "Office/karan sir shared things/Pasted image 20250415172119.png",
-    "Office/karan sir shared things/Pasted image 20250415165542.png",
-    "Office/meeting.md",
+    "Sem 8/Viva/Detail formate.md",
+    "Sem 8/Viva/RL.md",
+    "Sem 8/Viva/Pasted image 20250427211024.png",
+    "Sem 8/Viva/Pasted image 20250427193248.png",
+    "Sem 8/Viva/Pasted image 20250427193110.png",
+    "Sem 8/Viva/Pasted image 20250427192028.png",
+    "Sem 8/Viva/Pasted image 20250427192015.png",
+    "Sem 8/Viva/Pasted image 20250427191832.png",
+    "Sem 8/Viva/Pasted image 20250427191233.png",
+    "Sem 8/Reinforcement Learning/Module 1.md",
+    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
+    "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "Office/karan sir shared things/karan sir shared things.md",
-    "Office/karan sir shared things",
-    "Office/Pasted image 20250415143200.png",
-    "Office/Rmm Scripts/Windows Update Script.md",
-    "Office/Rmm Scripts/Pasted image 20250415103755.png",
-    "Office/Rmm Scripts/Pasted image 20250415103708.png",
-    "Office/Rmm Scripts/Pasted image 20250415103530.png",
+    "Office/karan sir shared things/errors.md",
+    "Office/karan sir shared things/Pasted image 20250425203537.png",
+    "Office/karan sir shared things/tactical rmm installation with postgres.md",
+    "Office/karan sir shared things/Trmm installation with external server.md",
+    "Sem 8/Viva/AAI.md",
+    "Office/karan sir shared things/Pasted image 20250422200618.png",
+    "Sem 8/Viva",
+    "Office/karan sir shared things/Pasted image 20250422140838.png",
+    "fusion/last day work.md",
+    "fusion/Work done till now.md",
+    "fusion/Drawing 2024-12-28 23.42.13.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2025-04-01 21.34.46.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-06 23.31.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-05 16.09.23.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-02 15.25.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-02 13.03.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-24 15.40.23.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
     "Office/Supriya mam/Scripts/Scripts.md",
+    "linkedin/Sarvesh interview prep.md",
+    "linkedin/posts.md",
+    "Office/meeting.md",
+    "Office/karan sir shared things",
+    "Office/Rmm Scripts/Windows Update Script.md",
     "Office/Rmm Scripts",
     "Office/Supriya mam",
     "Office/Tactical rmm/Tactical.md",
     "Office/Untitled",
-    "Office/Tactical rmm/Pasted image 20250414210807.png",
-    "Office/Tactical rmm/Pasted image 20250414210645.png",
-    "Office/Tactical rmm/Pasted image 20250414181924.png",
     "Office/Tactical rmm",
-    "Sem 8/Social media Analysis/0.Social media Analysis.md",
-    "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
-    "Office/modify and build.md",
-    "1.DevOps - Cloud/Linux/Linux Index.md",
-    "linkedin/posts.md",
-    "Secrets/main.md",
-    "Office/MCP in k8s with n8n/MCP in k8s with n8n.md",
-    "Office/Untitled.md",
     "Office/MCP in k8s with n8n",
     "Office/Supriya mam/Scripts",
-    "linkedin/Sarvesh interview prep.md",
-    "Office/integration of hoppscotch/hoppscotch.md",
-    "1.DevOps - Cloud/Helm/Helm index.md",
     "1.DevOps - Cloud/Helm",
-    "1.DevOps - Cloud/Kubernates notes/k8s-commands.md",
-    "Secrets",
-    "Secrates/main",
-    "Office/karan-sankhe app.md",
-    "1.DevOps - Cloud/Kubernates notes/ssh into nodes.md",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250407231423.png",
-    "Sem 8/Social media Analysis/Module 4.md",
-    "Sem 8/Social media Analysis/Pasted image 20250407220637.png",
-    "IA 2 Prep/RL/Index.md",
-    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
-    "Template/properties.md",
-    "IA 2 Prep/AAI/Index.md",
-    "IA 2 Prep/Untitled.md",
     "2.DSA/Linked list code.canvas"
   ]
 }
