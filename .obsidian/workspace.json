@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/19.k8s-security.md",
+                "file": "Office/karan sir shared things/karan sir shared things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19.k8s-security"
+              "title": "karan sir shared things"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5004348754883,
-    "collapsed": true
+    "width": 317.5004348754883
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -175,21 +174,21 @@
   },
   "active": "fbc90d798cb5693e",
   "lastOpenFiles": [
+    "1.DevOps - Cloud/Kubernates notes/19.k8s-security.md",
+    "1.DevOps - Cloud/Linux/Linux Index.md",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091701.png",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091534.png",
+    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091440.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091310.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091035.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503090728.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503090709.png",
     "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224111311.png",
-    "1.DevOps - Cloud/Kubernates notes/19.k8s-security.md",
     "Sem 8/Viva/Dump.md",
     "Sem 8/Viva/RL.md",
     "Sem 8/Viva/Detail formate.md",
     "Sem 8/Viva/Pasted image 20250427211024.png",
     "Sem 8/Viva/Pasted image 20250427193248.png",
-    "Sem 8/Viva/Pasted image 20250427193110.png",
-    "Sem 8/Viva/Pasted image 20250427192028.png",
-    "Sem 8/Viva/Pasted image 20250427192015.png",
-    "Sem 8/Viva/Pasted image 20250427191832.png",
     "Sem 8/Reinforcement Learning/Module 1.md",
     "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",

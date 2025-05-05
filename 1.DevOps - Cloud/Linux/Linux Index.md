@@ -126,4 +126,9 @@ ps -ef | grep -i
 
 
 
-	
+
+# grep command to show 10 lines below search
+
+```shell
+`openssl x509 -in /etc/kubernetes/pki/apiserver.crt -text -noout | grep -i -A 10 altern`
+```
