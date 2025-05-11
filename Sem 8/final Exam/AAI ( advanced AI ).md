@@ -8,3 +8,15 @@
 
 #  [[Expectation and maximization]]
 
+# [[Hidden markov model]]
+
+# [[Probablistic graphical model]]
+
+---
+
+# [[GANs (Generative Adversarial Networks)]]
+
+# [[Types of GANS]]
+
+# [[WGAN]]
+
