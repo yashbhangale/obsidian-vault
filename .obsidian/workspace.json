@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office/karan sir shared things/karan sir shared things.md",
+                "file": "Sem 8/final Exam/AAI ( advanced AI ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "karan sir shared things"
+              "title": "AAI ( advanced AI )"
+            }
+          },
+          {
+            "id": "1936542bde0a2d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 8/final Exam/Expectation and maximization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expectation and maximization"
+            }
+          },
+          {
+            "id": "2c9dcbf05bb06719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 8/final Exam/Gaussian mixture models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gaussian mixture models"
+            }
+          },
+          {
+            "id": "68f77ec66662f4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 8/final Exam/VAEs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VAEs"
             }
           }
         ]
@@ -94,8 +136,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 8/Reinforcement Learning/Module 3.md",
-                "collapseAll": true,
+                "file": "Sem 8/final Exam/AAI ( advanced AI ).md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Module 3"
+              "title": "Backlinks for AAI ( advanced AI )"
             }
           },
           {
@@ -113,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 8/Reinforcement Learning/Module 3.md",
+                "file": "Sem 8/final Exam/AAI ( advanced AI ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Module 3"
+              "title": "Outgoing links from AAI ( advanced AI )"
             }
           },
           {
@@ -142,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Office/integration of hoppscotch/hoppscotch.md",
+                "file": "Sem 8/final Exam/AAI ( advanced AI ).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hoppscotch"
+              "title": "Outline of AAI ( advanced AI )"
             }
           }
         ],
@@ -156,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 420.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -174,52 +216,51 @@
   },
   "active": "fbc90d798cb5693e",
   "lastOpenFiles": [
+    "Sem 8/final Exam/Expectation and maximization.md",
+    "Sem 8/final Exam/Pasted image 20250511231331.png",
+    "Sem 8/final Exam/AAI ( advanced AI ).md",
+    "Sem 8/final Exam/Gaussian mixture models.md",
+    "Sem 8/final Exam/VAEs.md",
+    "Sem 8/final Exam/Pasted image 20250511220935.png",
+    "Sem 8/final Exam/Pasted image 20250511220608.png",
+    "Sem 8/final Exam/difference btn GANs and VAES.md",
+    "Sem 8/final Exam/Variational Autoencoders (VAEs).md",
+    "Sem 8/final Exam/Generative Models.md",
+    "Sem 8/final Exam/UCB (Upper Confidence Bound).md",
+    "Sem 8/final Exam/RL.md",
+    "Sem 8/final Exam/Pasted image 20250510233317.png",
+    "Sem 8/final Exam/Pasted image 20250510195103.png",
+    "Sem 8/final Exam/Pasted image 20250510181416.png",
+    "Sem 8/final Exam/Pasted image 20250510181211.png",
+    "Sem 8/final Exam/Pasted image 20250510175808.png",
+    "Excalidraw/Drawing 2025-05-09 18.36.38.excalidraw.md",
+    "Sem 8/final Exam/Pasted image 20250510172647.png",
+    "Sem 8/final Exam/Pasted image 20250509180928.png",
+    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
+    "Sem 8/final Exam",
+    "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
+    "Distro builder/Distro Builder.md",
+    "Office/karan sir shared things/karan sir shared things.md",
+    "Distro builder",
+    "Office/Tactical rmm/Tactical.md",
+    "Office/Supriya mam/Scripts/Scripts.md",
+    "Office/IT Support Automation Scripts/User Scripts.md",
+    "Office/IT Support Automation Scripts/Administrator Side.md",
     "1.DevOps - Cloud/Kubernates notes/19.k8s-security.md",
     "1.DevOps - Cloud/Linux/Linux Index.md",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091701.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091534.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091440.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091310.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503091035.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503090728.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250503090709.png",
-    "1.DevOps - Cloud/Kubernates notes/Pasted image 20250224111311.png",
     "Sem 8/Viva/Dump.md",
     "Sem 8/Viva/RL.md",
     "Sem 8/Viva/Detail formate.md",
-    "Sem 8/Viva/Pasted image 20250427211024.png",
-    "Sem 8/Viva/Pasted image 20250427193248.png",
     "Sem 8/Reinforcement Learning/Module 1.md",
-    "Sem 8/Reinforcement Learning/0. Reinforcement learning.md",
-    "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
-    "Office/karan sir shared things/karan sir shared things.md",
     "Office/karan sir shared things/errors.md",
     "Office/karan sir shared things/tactical rmm installation with postgres.md",
-    "Office/karan sir shared things/Trmm installation with external server.md",
-    "Sem 8/Viva/AAI.md",
     "Sem 8/Viva",
-    "fusion/last day work.md",
-    "fusion/Work done till now.md",
-    "fusion/Drawing 2024-12-28 23.42.13.excalidraw.md",
-    "Excalidraw/Untitled.md",
-    "Excalidraw/Drawing 2025-04-01 21.34.46.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-06 23.31.20.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-05 16.09.23.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-02 15.25.41.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-02 13.03.41.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-24 15.40.23.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-24 14.48.22.excalidraw.md",
-    "Office/Supriya mam/Scripts/Scripts.md",
-    "linkedin/Sarvesh interview prep.md",
-    "linkedin/posts.md",
     "Office/karan sir shared things",
     "Office/Rmm Scripts",
     "Office/Supriya mam",
     "Office/Untitled",
     "Office/Tactical rmm",
     "Office/MCP in k8s with n8n",
-    "Office/Supriya mam/Scripts",
-    "1.DevOps - Cloud/Helm",
     "2.DSA/Linked list code.canvas"
   ]
 }

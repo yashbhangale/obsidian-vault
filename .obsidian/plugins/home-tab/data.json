@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Office/karan sir shared things/karan sir shared things.md",
-      "timestamp": 1746426774588
+      "filepath": "Sem 8/final Exam/AAI ( advanced AI ).md",
+      "timestamp": 1746985882458
     },
     {
-      "filepath": "1.DevOps - Cloud/Kubernates notes/19.k8s-security.md",
-      "timestamp": 1746419408534
+      "filepath": "Sem 8/final Exam/Expectation and maximization.md",
+      "timestamp": 1746985142265
+    },
+    {
+      "filepath": "Sem 8/final Exam/Gaussian mixture models.md",
+      "timestamp": 1746983949820
+    },
+    {
+      "filepath": "Sem 8/final Exam/VAEs.md",
+      "timestamp": 1746983945396
+    },
+    {
+      "filepath": "Sem 8/final Exam/difference btn GANs and VAES.md",
+      "timestamp": 1746980983294
     }
   ],
   "bookmarkedFileStore": [],
