@@ -20,5 +20,9 @@
 
 # [[WGAN]]     [[english wgan gemini]]
 
-# [[Conditional GAN]]
+# [[Conditional GAN]]  [[conditional gan engg]]
+
+# [[cycle gan]]
+
+
 

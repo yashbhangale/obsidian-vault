@@ -18,16 +18,12 @@ Lekin **cGAN bolta hai: "mujhe random image nahi chahiye, mujhe label ke hisaab 
 ### 🎮 Components:
 
 - **Generator (G)**: Noise `z` + condition `y` leta hai → fake image banata hai.
-    
 - **Discriminator (D)**: Image + condition `y` leta hai → real ya fake decide karta hai.
-    
 
 ### ⚙️ Training:
 
 - Generator tries to **fool** discriminator using condition.
-    
 - Discriminator checks **if image matches the condition** + is real/fake.
-    
 
 ---
 
@@ -50,12 +46,10 @@ Lekin **cGAN bolta hai: "mujhe random image nahi chahiye, mujhe label ke hisaab 
 ### Discriminator Loss:
 
 - Maximize: log(D(x|y)) + log(1 - D(G(z|y)))
-    
 
 ### Generator Loss:
 
 - Minimize: log(1 - D(G(z|y))) → i.e., fool the discriminator
-    
 
 ---
 
@@ -64,12 +58,10 @@ Lekin **cGAN bolta hai: "mujhe random image nahi chahiye, mujhe label ke hisaab 
 ### ✅ Problem with Vanilla GAN:
 
 - Vanilla GAN randomly koi bhi image bana deta hai — **no control**.
-    
 
 ### ✅ cGAN ka Solution:
 
 - cGAN allows **==controlled image generation==**.
-    
 
 ---
 
