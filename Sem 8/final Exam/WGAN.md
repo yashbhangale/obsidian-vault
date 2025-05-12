@@ -1,7 +1,9 @@
 
 ### 🔰 **Problem with normal GANs (Vanilla GANs)**
 
-![[Pasted image 20250512001620.png]]
+![[Pasted image 20250512092726.png]]
+
+
 
 Pehle samajh:
 
@@ -99,13 +101,13 @@ Loss_G = - E[D(fake)]
 
 ## 🎯 WGAN vs GAN Summary Table:
 
-|Feature|GAN|WGAN|
-|---|---|---|
-|Loss Type|Binary Cross Entropy|Wasserstein Loss|
-|Output|0 or 1 (real/fake)|Real-valued scores|
-|Discriminator|Classifier|Critic (scorer)|
-|Stability|Often unstable|Much more stable|
-|Mode Collapse|Common|Reduced|
+| Feature       | GAN                  | WGAN               |
+| ------------- | -------------------- | ------------------ |
+| Loss Type     | Binary Cross Entropy | Wasserstein Loss   |
+| Output        | 0 or 1 (real/fake)   | Real-valued scores |
+| Discriminator | Classifier           | Critic (scorer)    |
+| Stability     | Often unstable       | Much more stable   |
+| Mode Collapse | Common               | Reduced            |
 
 ---
 

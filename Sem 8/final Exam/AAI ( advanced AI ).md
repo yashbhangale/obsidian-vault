@@ -18,5 +18,7 @@
 
 # [[Types of GANS]]
 
-# [[WGAN]]
+# [[WGAN]]     [[english wgan gemini]]
+
+# [[Conditional GAN]]
 
