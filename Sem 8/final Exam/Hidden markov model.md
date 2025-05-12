@@ -118,7 +118,11 @@ HMM ke 5 main parts hote hain:
 ## ❌ 9. **Limitations**
 
 - 🧠 Thoda **complex** in learning/training
-- 🧪 Needs **large data** for accurate training
+- 🧪 Needs **large ```
+```
+	``Q`  DWAdata``
+```
+```** for accurate training
 - 📉 Assumes **Markov property** (only previous state matters)
 - ❗ Limited to **discrete states** (for vanilla HMM)
 
