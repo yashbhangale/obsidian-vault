@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0f37596ce5c61ad3",
+        "id": "306ffdf814c8c69b",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9c9e149baa5fa8",
+            "id": "30be28e918bbfac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 8/final Exam/AAI ( advanced AI ).md",
+                "file": "1.DevOps - Cloud/Terraform/Terraform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AAI ( advanced AI )"
-            }
-          },
-          {
-            "id": "d7f17df43a3cde43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 8/final Exam/Hidden markov model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hidden markov model"
-            }
-          },
-          {
-            "id": "4f98de8a79bdd0c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 8/final Exam/Generative Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Generative Models"
+              "title": "Terraform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5004348754883
+    "width": 317.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -201,9 +173,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d7f17df43a3cde43",
+  "active": "30be28e918bbfac8",
   "lastOpenFiles": [
+    "1.DevOps - Cloud/1. DevOps Index.md",
+    "1.DevOps - Cloud/Terraform/Terraform.md",
+    "1.DevOps - Cloud/Terraform",
+    "Sem 8/EVS/0.EVS.md",
+    "Sem 8/Social media Analysis/0.Social media Analysis.md",
+    "Sem 8/Social media Analysis/Untitled.md",
+    "ReactJS/intermediate.md",
+    "ReactJS/beginner.md",
+    "ReactJS/reactjs interview.md",
+    "pancard club.md",
+    "ReactJS",
     "Sem 8/final Exam/AAI ( advanced AI ).md",
+    "Sem 8/final Exam/Hidden markov model.md",
     "Sem 8/final Exam/difference btn GANs and VAES.md",
     "Sem 8/final Exam/Generative Models.md",
     "Sem 8/final Exam/stacking anmd blending.md",
@@ -219,16 +203,6 @@
     "Sem 8/final Exam/Sparse autoencoder.md",
     "Sem 8/final Exam/Denoising autoencoder.md",
     "Sem 8/final Exam/Types of autoencoder.md",
-    "Sem 8/final Exam/Explain the concept of Metaverse (twice).md",
-    "Sem 8/final Exam/Differentiate between Virtual Reality and Augmented Reality.md",
-    "Sem 8/final Exam/Explain the limitations of 2D learning environments.md",
-    "Sem 8/final Exam/**Bagging (Bootstrap Aggregating)**.md",
-    "Sem 8/final Exam/Boosting.md",
-    "Sem 8/final Exam/Bagging.md",
-    "Sem 8/final Exam/Random forest.md",
-    "Sem 8/final Exam/Blending.md",
-    "Sem 8/final Exam/Ada boost and xgboost difference.md",
-    "Sem 8/final Exam/Adaboost.md",
     "Sem 8/final Exam/Pasted image 20250512162726.png",
     "Sem 8/final Exam/Pasted image 20250512162538.png",
     "Sem 8/final Exam/Pasted image 20250512162234.png",
@@ -247,8 +221,6 @@
     "Office/Rmm Scripts",
     "Office/Supriya mam",
     "Office/Untitled",
-    "Office/Tactical rmm",
-    "Office/MCP in k8s with n8n",
     "2.DSA/Linked list code.canvas"
   ]
 }
