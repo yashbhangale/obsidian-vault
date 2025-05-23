@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "5c6a9b665721e982",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
-          },
-          {
             "id": "1342248042b9042c",
             "type": "leaf",
             "state": {
@@ -45,8 +35,7 @@
               "title": "Rough"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5004348754883
+    "width": 317.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -197,8 +187,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1342248042b9042c",
+  "active": "30be28e918bbfac8",
   "lastOpenFiles": [
+    "1.DevOps - Cloud/Terraform/Pasted image 20250523185800.png",
+    "1.DevOps - Cloud/Terraform/Pasted image 20250523185656.png",
     "Rough.md",
     "pancard club.md",
     "1.DevOps - Cloud/Terraform/Terraform.md",
@@ -226,7 +218,6 @@
     "Sem 8/final Exam/Ensemble learning.md",
     "Sem 8/final Exam/Vanila autoencoder.md",
     "Sem 8/final Exam/Sparse autoencoder.md",
-    "Sem 8/final Exam/Denoising autoencoder.md",
     "Sem 8/final Exam/Pasted image 20250512162726.png",
     "Sem 8/final Exam/Pasted image 20250512162538.png",
     "Sem 8/final Exam/Pasted image 20250512162234.png",
@@ -236,7 +227,6 @@
     "Sem 8/final Exam/Pasted image 20250512094621.png",
     "Sem 8/final Exam/Pasted image 20250512092726.png",
     "Sem 8/final Exam/Pasted image 20250512001620.png",
-    "Sem 8/final Exam/Pasted image 20250511232416.png",
     "Sem 8/final Exam",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "Distro builder",
