@@ -19,7 +19,7 @@
   1. AZ900 (Azure fundamentals)
   2. AI900 (Azure AI fundamentals)
   3. AZ104 (Azure Administrators associate)
-  4. CKA
+  4. CKA (Preparing)
 ```
 
 
