@@ -13,6 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2.DSA/0. DSA Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. DSA Index"
+            }
+          },
+          {
+            "id": "40563e9968043cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.DSA/string questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "string questions"
+            }
+          },
+          {
+            "id": "b28b869949230c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2.DSA/string questions.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +49,8 @@
               "title": "string questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,11 +201,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3c04c821171225cd",
+  "active": "40563e9968043cc5",
   "lastOpenFiles": [
+    "2.DSA/0. DSA Index.md",
+    "2.DSA/string questions.md",
     "2.DSA/Pasted image 20250524095336.png",
     "2.DSA/Pasted image 20250524095328.png",
-    "2.DSA/0. DSA Index.md",
     "Java Learning/1. Basic Java.md",
     "Rough.md",
     "1.DevOps - Cloud/Terraform/Terraform.md",
@@ -188,7 +218,6 @@
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190414.png",
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190202.png",
     "1.DevOps - Cloud/Terraform/Pasted image 20250523185800.png",
-    "1.DevOps - Cloud/Terraform/Pasted image 20250523185656.png",
     "pancard club.md",
     "1.DevOps - Cloud/1. DevOps Index.md",
     "1.DevOps - Cloud/Terraform",
