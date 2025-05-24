@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "2.DSA/string questions.md",
+      "timestamp": 1748058881335
+    },
+    {
+      "filepath": "2.DSA/0. DSA Index.md",
+      "timestamp": 1748058866790
+    },
+    {
+      "filepath": "Java Learning/1. Basic Java.md",
+      "timestamp": 1748058522392
+    },
+    {
+      "filepath": "Rough.md",
+      "timestamp": 1748058407844
+    },
+    {
       "filepath": "1.DevOps - Cloud/Terraform/Terraform.md",
-      "timestamp": 1748017123254
+      "timestamp": 1748057788603
     }
   ],
   "bookmarkedFileStore": [],
