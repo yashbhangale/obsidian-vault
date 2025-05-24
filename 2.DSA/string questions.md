@@ -61,6 +61,13 @@ class Main {
 }
 ```
 
+```python
+s = "hello"
+reversed_s = s[::-1]
+print(reversed_s)  # Output: "olleh"
+```
+
+
 ![alt text](Pastedimage20241223214923.png)
 
 ---
@@ -96,6 +103,9 @@ class Main {
     }
 }
 ```
+
+python solution:
+![[Pasted image 20250524095336.png]]
 
 ---
 ## 3. Find the first Non-Repeating Character [[hash map ]] ka concept aayega
