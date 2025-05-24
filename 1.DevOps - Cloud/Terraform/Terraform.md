@@ -1,7 +1,6 @@
 1. iac writing a infra in version control scripts 
 2. terraform is agent less
 3. terraform is declarative
-4. 
 
 
 **Terraform** is an **open-source Infrastructure as Code (IaC)** tool created by **HashiCorp**. It allows you to define, provision, and manage cloud and on-premise infrastructure using a declarative configuration language called **HashiCorp Configuration Language (HCL)**.
