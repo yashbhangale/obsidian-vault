@@ -23,3 +23,20 @@
 ```
 
 
+
+
+
+
+# wifi configs
+
+![[Pasted image 20250525194518.png]]
+
+![[Pasted image 20250525194540.png]]
+
+
+
+![[Pasted image 20250525194558.png]]
+
+
+![[Pasted image 20250525194610.png]]
+

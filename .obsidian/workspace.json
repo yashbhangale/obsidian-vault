@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.DevOps - Cloud/Terraform/Terraform.md",
+                "file": "Rough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terraform"
+              "title": "Rough"
             }
           },
           {
@@ -203,21 +203,22 @@
   },
   "active": "40563e9968043cc5",
   "lastOpenFiles": [
+    "Pasted image 20250525194610.png",
+    "Pasted image 20250525194558.png",
+    "Pasted image 20250525194540.png",
+    "Pasted image 20250525194518.png",
+    "1.DevOps - Cloud/Terraform/Terraform.md",
     "2.DSA/string questions.md",
     "2.DSA/0. DSA Index.md",
     "2.DSA/Pasted image 20250524095336.png",
     "2.DSA/Pasted image 20250524095328.png",
     "Java Learning/1. Basic Java.md",
     "Rough.md",
-    "1.DevOps - Cloud/Terraform/Terraform.md",
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190651.png",
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190621.png",
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190606.png",
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190526.png",
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190500.png",
-    "1.DevOps - Cloud/Terraform/Pasted image 20250523190414.png",
-    "1.DevOps - Cloud/Terraform/Pasted image 20250523190202.png",
-    "1.DevOps - Cloud/Terraform/Pasted image 20250523185800.png",
     "pancard club.md",
     "1.DevOps - Cloud/1. DevOps Index.md",
     "1.DevOps - Cloud/Terraform",
@@ -240,7 +241,6 @@
     "Sem 8/final Exam/Conditional GAN.md",
     "Sem 8/final Exam/VAEs.md",
     "Sem 8/final Exam/Auto encoders.md",
-    "Sem 8/final Exam/Ensemble learning.md",
     "Sem 8/final Exam",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "Distro builder",

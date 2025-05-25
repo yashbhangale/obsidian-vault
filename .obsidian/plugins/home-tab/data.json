@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Rough.md",
+      "timestamp": 1748182502027
+    },
+    {
       "filepath": "1.DevOps - Cloud/Terraform/Terraform.md",
-      "timestamp": 1748171463487
+      "timestamp": 1748182494691
     }
   ],
   "bookmarkedFileStore": [],
