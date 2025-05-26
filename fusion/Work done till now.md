@@ -3,7 +3,7 @@ title: work done till now
 draft: "True"
 ---
 
-
+			
 
 ```
 sudo docker run --privileged -it -v /var/lib/docker/volumes/fusiondata/_data:/home/fusion fusionbuild1 /bin/bash
