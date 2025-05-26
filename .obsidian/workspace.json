@@ -67,10 +67,14 @@
             "id": "369fc05e2bb29aae",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "fusion/Work done till now.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Work done till now"
             }
           }
         ],
@@ -227,6 +231,9 @@
   },
   "active": "369fc05e2bb29aae",
   "lastOpenFiles": [
+    "fusion/Untitled.canvas",
+    "fusion/Work done till now.md",
+    "fusion/Drawing 2024-12-28 23.42.13.excalidraw.md",
     "Java Learning/1. Basic Java.md",
     "2.DSA/Array list vs linked list.md",
     "2.DSA/0. DSA Index.md",
@@ -262,9 +269,6 @@
     "ReactJS",
     "Sem 8/final Exam/AAI ( advanced AI ).md",
     "Sem 8/final Exam/Hidden markov model.md",
-    "Sem 8/final Exam/difference btn GANs and VAES.md",
-    "Sem 8/final Exam/Generative Models.md",
-    "Sem 8/final Exam/stacking anmd blending.md",
     "Sem 8/final Exam",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
     "Distro builder",
