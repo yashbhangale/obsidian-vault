@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Rough.md",
-      "timestamp": 1748182502027
+      "filepath": "Java Learning/1. Basic Java.md",
+      "timestamp": 1748237059088
     },
     {
-      "filepath": "1.DevOps - Cloud/Terraform/Terraform.md",
-      "timestamp": 1748182494691
+      "filepath": "2.DSA/Array list vs linked list.md",
+      "timestamp": 1748237058579
+    },
+    {
+      "filepath": "2.DSA/0. DSA Index.md",
+      "timestamp": 1748237057465
+    },
+    {
+      "filepath": "1.DevOps - Cloud/ArgoCD.md",
+      "timestamp": 1748237056106
+    },
+    {
+      "filepath": "2.DSA/contiguous memory locations.md",
+      "timestamp": 1748237010315
     }
   ],
   "bookmarkedFileStore": [],
