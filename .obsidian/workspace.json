@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fusion/Work done till now.md",
+                "file": "Office/Rmm Scripts/Windows Update Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work done till now"
+              "title": "Windows Update Script"
             }
           }
         ],
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5004348754883,
-    "collapsed": true
+    "width": 317.5004348754883
   },
   "right": {
     "id": "48303e4fbc4f6709",
@@ -232,6 +231,10 @@
   },
   "active": "369fc05e2bb29aae",
   "lastOpenFiles": [
+    "Office/Supriya mam/Scripts/Scripts.md",
+    "Office/karan sir shared things/karan sir shared things.md",
+    "fusion/nanite where are which.md",
+    "fusion/Work done till now.md",
     "fusion/last day work.md",
     "fusion/launch vm with qemu.md",
     "2.DSA/0. DSA Index.md",
@@ -242,7 +245,6 @@
     "2.DSA/functions in java.md",
     "2.DSA/Hash Map.md",
     "2.DSA/string questions.md",
-    "fusion/Work done till now.md",
     "fusion/Untitled.canvas",
     "fusion/Drawing 2024-12-28 23.42.13.excalidraw.md",
     "Java Learning/1. Basic Java.md",
@@ -266,10 +268,7 @@
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190621.png",
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190606.png",
     "1.DevOps - Cloud/Terraform/Pasted image 20250523190526.png",
-    "pancard club.md",
-    "1.DevOps - Cloud/1. DevOps Index.md",
     "1.DevOps - Cloud/Terraform",
-    "Sem 8/EVS/0.EVS.md",
     "ReactJS",
     "Sem 8/final Exam",
     "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
