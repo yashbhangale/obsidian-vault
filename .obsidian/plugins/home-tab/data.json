@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Office/Rmm Scripts/Windows Update Script.md",
-      "timestamp": 1748338211956
+      "filepath": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
+      "timestamp": 1748347349093
+    },
+    {
+      "filepath": "1.DevOps - Cloud/Kubernates notes/19.k8s-security.md",
+      "timestamp": 1748347278201
+    },
+    {
+      "filepath": "2.DSA/0. DSA Index.md",
+      "timestamp": 1748347255317
+    },
+    {
+      "filepath": "1.DevOps - Cloud/ArgoCD.md",
+      "timestamp": 1748347253568
+    },
+    {
+      "filepath": "2.DSA/Array list vs linked list.md",
+      "timestamp": 1748347252800
     }
   ],
   "bookmarkedFileStore": [],
