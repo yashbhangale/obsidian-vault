@@ -24,12 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Nanite/Untitled.md",
-      "timestamp": 1748441248402
+      "filepath": "Nanite/naniote docs/architecture_design.md",
+      "timestamp": 1748446914731
     },
     {
-      "filepath": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
-      "timestamp": 1748424077937
+      "filepath": "Nanite/Nanite.md",
+      "timestamp": 1748446908887
+    },
+    {
+      "filepath": "Nanite/naniote docs/ai_integration_guide.md",
+      "timestamp": 1748446803010
+    },
+    {
+      "filepath": "Nanite/naniote docs/todo.md",
+      "timestamp": 1748446788067
     }
   ],
   "bookmarkedFileStore": [],
