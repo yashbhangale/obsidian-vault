@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
+                "file": "Nanite/Nanite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. kubernates index"
+              "title": "Nanite"
             }
           }
         ]
@@ -174,8 +174,10 @@
   },
   "active": "7756cc15c37aacdd",
   "lastOpenFiles": [
-    "1.DevOps - Cloud/Kubernates notes/19.k8s-security.md",
     "1.DevOps - Cloud/Kubernates notes/0. kubernates index.md",
+    "Nanite/Nanite.md",
+    "Nanite",
+    "1.DevOps - Cloud/Kubernates notes/19.k8s-security.md",
     "2.DSA/0. DSA Index.md",
     "1.DevOps - Cloud/ArgoCD.md",
     "2.DSA/Array list vs linked list.md",
@@ -200,7 +202,6 @@
     "2.DSA/Drawing 2024-12-20 16.00.34.excalidraw.md",
     "2.DSA/dump.md",
     "2.DSA/Linear Search Algorithm.md",
-    "For Job/search for jobs.md",
     "Pasted image 20250525194610.png",
     "Pasted image 20250525194558.png",
     "Pasted image 20250525194540.png",
@@ -220,7 +221,6 @@
     "Office/karan sir shared things",
     "Office/Rmm Scripts",
     "Office/Supriya mam",
-    "Office/Untitled",
     "2.DSA/Linked list code.canvas"
   ]
 }
