@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "2.DSA/Neetcode blind 75.md",
-      "timestamp": 1748533817717
+      "filepath": "Nanite/naniote docs/nanite_user_guide.md",
+      "timestamp": 1748545874650
+    },
+    {
+      "filepath": "Nanite/naniote docs/live_build_configuration.md",
+      "timestamp": 1748545871759
+    },
+    {
+      "filepath": "Nanite/naniote docs/complete_walkthrough.md",
+      "timestamp": 1748545869093
+    },
+    {
+      "filepath": "Nanite/naniote docs/build_process_validation.md",
+      "timestamp": 1748545866327
+    },
+    {
+      "filepath": "Nanite/naniote docs/build_and_test_guide.md",
+      "timestamp": 1748545864612
     }
   ],
   "bookmarkedFileStore": [],
