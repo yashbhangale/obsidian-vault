@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nanite/naniote docs/nanite_user_guide.md",
+                "file": "Distro builder/Distro Builder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nanite_user_guide"
+              "title": "Distro Builder"
             }
           }
         ]
@@ -174,6 +174,11 @@
   },
   "active": "d1ded83982c45f68",
   "lastOpenFiles": [
+    "AZ-104/1. Azure Index.md",
+    "Distro builder/Distro Builder.md",
+    "Memes/Pasted image 20250403113930.png",
+    "Memes/index.md",
+    "Nanite/naniote docs/nanite_user_guide.md",
     "Nanite/naniote docs/live_build_configuration.md",
     "Nanite/naniote docs/complete_walkthrough.md",
     "Nanite/naniote docs/build_process_validation.md",
@@ -203,14 +208,9 @@
     "Nanite/nanote customization docs/todo.md",
     "Nanite/nanote customization docs/slide1.png",
     "Nanite/nanote customization docs/requirements.md",
-    "Nanite/nanote customization docs/nanite_user_guide.md",
-    "Nanite/nanote customization docs/nanite_branding_complete_guide.md",
     "Nanite/nanote customization docs/nanite-logo.png",
-    "Nanite/nanote customization docs/live_build_branding_workflows.md",
-    "Nanite/nanote customization docs/build_process_validation.md",
     "Nanite/nanote customization docs",
     "Nanite/customization docs/slide1.png",
-    "Nanite/customization docs/logo.png",
     "Nanite/customization docs",
     "Nanite/naniote docs",
     "Nanite/nanit docs",
