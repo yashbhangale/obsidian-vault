@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Distro builder/Distro Builder.md",
-      "timestamp": 1748605319295
-    },
-    {
-      "filepath": "AZ-104/1. Azure Index.md",
-      "timestamp": 1748604784250
-    },
-    {
-      "filepath": "Memes/Pasted image 20250403113930.png",
-      "timestamp": 1748604777893
-    },
-    {
-      "filepath": "Memes/index.md",
-      "timestamp": 1748604777244
-    },
-    {
-      "filepath": "Nanite/naniote docs/nanite_user_guide.md",
-      "timestamp": 1748584684399
+      "filepath": "Nanite/naniote docs/architecture_design.md",
+      "timestamp": 1748714239573
     }
   ],
   "bookmarkedFileStore": [],
