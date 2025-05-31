@@ -6,6 +6,8 @@ https://neetcode.io/practice?tab=blind75
 
 
 
+
+# 206 reverse a linked list
 ![[Pasted image 20250529123125.png]]
 
 
@@ -70,6 +72,7 @@ class Solution {
 ```
 
 
+# 21, Merge 2 Sorted Lists
 ![[Pasted image 20250530181930.png]]
 
 
@@ -89,6 +92,34 @@ class Solution {
             return list2;
         }
     }
+}
+```
+
+
+
+# 141. Linked list Cycle
+
+
+![[Pasted image 20250531233744.png]]
+
+
+referenec only 3 minutes video : https://www.youtube.com/watch?v=IxXf_7LVGpg
+
+
+```java
+public class Solution {
+    public boolean hasCycle(ListNode head) {
+        ListNode slow=head;
+        ListNode fast=head;
+
+        while (fast!=null && fast.next!=null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow==fast)
+                return true;
+        }
+        return false;
 }
 ```
 
