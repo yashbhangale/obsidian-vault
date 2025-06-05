@@ -40,3 +40,9 @@
 
 ![[Pasted image 20250525194610.png]]
 
+
+
+
+# what devops guys do ??
+
+we set up cicd pipelines with multi stage deployments, kubernetes orchestration,  horizantal pod auto scaling and containerized microservices using helm

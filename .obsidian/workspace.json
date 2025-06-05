@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nanite/naniote docs/architecture_design.md",
+                "file": "Rough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "architecture_design"
+              "title": "Rough"
             }
           },
           {
@@ -242,12 +242,12 @@
   },
   "active": "8bf969117849ef90",
   "lastOpenFiles": [
+    "todo.md",
+    "Nanite/naniote docs/architecture_design.md",
     "Rough.md",
     "Nanite/naniote docs/build_and_test_guide.md",
-    "todo.md",
     "Nanite/website todo.md",
     "Nanite/naniote docs/nanite_user_guide.md",
-    "Nanite/naniote docs/architecture_design.md",
     "Nanite/naniote docs/ai_integration_guide.md",
     "2.DSA/Neetcode blind 75.md",
     "2.DSA/Pasted image 20250531233744.png",
