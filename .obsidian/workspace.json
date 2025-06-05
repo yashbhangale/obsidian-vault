@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough.md",
+                "file": "Nanite/naniote docs/architecture_design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rough"
+              "title": "architecture_design"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,19 +237,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "hugo-publish:hugo sync": false,
-      "iconic:Open rulebook": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ca025b2bbe460781",
+  "active": "8bf969117849ef90",
   "lastOpenFiles": [
     "Rough.md",
+    "Nanite/naniote docs/build_and_test_guide.md",
     "todo.md",
     "Nanite/website todo.md",
     "Nanite/naniote docs/nanite_user_guide.md",
-    "Nanite/naniote docs/build_and_test_guide.md",
     "Nanite/naniote docs/architecture_design.md",
     "Nanite/naniote docs/ai_integration_guide.md",
     "2.DSA/Neetcode blind 75.md",
