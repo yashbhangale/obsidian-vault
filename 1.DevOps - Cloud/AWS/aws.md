@@ -73,3 +73,10 @@
     - **Aurora Global Database** (AWS)
     - **Cosmos DB** (Azure)
     - **Spanner** (Google Cloud)
+
+
+
+
+
+
+type of vm bare metal, hosted 

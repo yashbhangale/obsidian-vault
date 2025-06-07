@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Untitled.md",
-      "timestamp": 1748839987876
+      "filepath": "Rough.md",
+      "timestamp": 1749308862182
     },
     {
-      "filepath": "Rough.md",
-      "timestamp": 1748839980703
+      "filepath": "Nanite/nanite config todo.md",
+      "timestamp": 1749299223679
+    },
+    {
+      "filepath": "Nanite/Nanite Branding guide implemented while building/branding guide.md",
+      "timestamp": 1749298192052
+    },
+    {
+      "filepath": "Nanite/Drawing 2025-06-05 21.04.51.excalidraw.md",
+      "timestamp": 1749298165502
     },
     {
       "filepath": "Nanite/website todo.md",
-      "timestamp": 1748839903743
-    },
-    {
-      "filepath": "Nanite/naniote docs/nanite_user_guide.md",
-      "timestamp": 1748839456505
+      "timestamp": 1749297871337
     }
   ],
   "bookmarkedFileStore": [],

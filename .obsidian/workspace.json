@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff11ad1bba39d5cf",
+        "id": "d018510cc6ae3742",
         "type": "tabs",
         "children": [
           {
-            "id": "d1ded83982c45f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.DSA/0. DSA Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. DSA Index"
-            }
-          },
-          {
-            "id": "fff307d9897c558b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "For Job/resume edists for devops.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "resume edists for devops"
-            }
-          },
-          {
-            "id": "18d3eec9a8894fdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.DSA/0. DSA Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. DSA Index"
-            }
-          },
-          {
-            "id": "8a7c3b37c17b5623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nanite/naniote docs/build_and_test_guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "build_and_test_guide"
-            }
-          },
-          {
-            "id": "8bf969117849ef90",
+            "id": "e2eedef6b86a717a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Rough"
             }
-          },
-          {
-            "id": "ca025b2bbe460781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,22 +166,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "hugo-publish:hugo sync": false,
+      "iconic:Open rulebook": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8bf969117849ef90",
+  "active": "e2eedef6b86a717a",
   "lastOpenFiles": [
-    "todo.md",
-    "Nanite/naniote docs/architecture_design.md",
-    "Rough.md",
-    "Nanite/naniote docs/build_and_test_guide.md",
+    "Nanite/nanite config todo.md",
+    "Nanite/Nanite Branding guide implemented while building/branding guide.md",
+    "Nanite/Drawing 2025-06-05 21.04.51.excalidraw.md",
+    "Nanite/Nanite Branding guide implemented while building",
     "Nanite/website todo.md",
+    "fusion/launch vm with qemu.md",
+    "fusion/Work done till now.md",
+    "fusion/nanite where are which.md",
+    "2.DSA/0. DSA Index.md",
+    "For Job/resume edists for devops.md",
+    "Nanite/naniote docs/build_and_test_guide.md",
+    "1.DevOps - Cloud/AWS/aws.md",
+    "Rough.md",
+    "todo.md",
+    "NodeJs/NodeJS.md",
+    "website in which Jobs to apply/Untitled/list of Job websites.md",
+    "NodeJs",
+    "website in which Jobs to apply/Untitled",
+    "website in which Jobs to apply",
+    "Nanite/naniote docs/architecture_design.md",
     "Nanite/naniote docs/nanite_user_guide.md",
     "Nanite/naniote docs/ai_integration_guide.md",
     "2.DSA/Neetcode blind 75.md",
     "2.DSA/Pasted image 20250531233744.png",
-    "2.DSA/0. DSA Index.md",
-    "For Job/resume edists for devops.md",
     "For Job/Resume tips.md",
     "For Job/Pasted image 20250531210528.png",
     "2.DSA/Pasted image 20250530181930.png",
@@ -263,20 +208,11 @@
     "Nanite/naniote docs/live_build_configuration.md",
     "Nanite/naniote docs/complete_walkthrough.md",
     "Nanite/naniote docs/build_process_validation.md",
-    "Nanite/Nanite.md",
     "2.DSA/Pasted image 20250529123125.png",
     "2.DSA/Pasted image 20250529121142.png",
-    "Java Learning/sorting algorithms/1. Bubble sort.md",
-    "Nanite/nanote customization docs/calamares_customization_guide.md",
-    "Nanite/nanote customization docs/complete_walkthrough.md",
     "Nanite/nanote customization docs/default.png",
-    "Nanite/nanote customization docs/live_build_configuration.md",
-    "Nanite/nanote customization docs/live_build_documentation.md",
     "Nanite/nanote customization docs/login-background.png",
     "Nanite/nanote customization docs/logo.png",
-    "Nanite/nanote customization docs/build_and_test_guide.md",
-    "Nanite/nanote customization docs/branding_requirements.md",
-    "Nanite/nanote customization docs/branding_integration_guide.md",
     "Nanite/nanote customization docs/background.png",
     "Nanite/nanote customization docs",
     "Nanite/customization docs",
@@ -285,10 +221,6 @@
     "Nanite",
     "fusion/Untitled.canvas",
     "1.DevOps - Cloud/Terraform",
-    "ReactJS",
-    "Sem 8/final Exam",
-    "Sem 8/SEM-VIII_AIDS_Syllabus.pdf",
-    "Distro builder",
     "2.DSA/Linked list code.canvas"
   ]
 }
