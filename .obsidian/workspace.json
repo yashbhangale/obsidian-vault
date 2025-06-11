@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough.md",
+                "file": "1.DevOps - Cloud/Interview prep/Computer Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rough"
+              "title": "Computer Networking"
             }
           }
         ]
@@ -174,19 +174,23 @@
   },
   "active": "e2eedef6b86a717a",
   "lastOpenFiles": [
-    "Nanite/nanite config todo.md",
-    "Nanite/Nanite Branding guide implemented while building/branding guide.md",
     "Nanite/Drawing 2025-06-05 21.04.51.excalidraw.md",
-    "Nanite/Nanite Branding guide implemented while building",
-    "Nanite/website todo.md",
-    "fusion/launch vm with qemu.md",
+    "1.DevOps - Cloud/Interview prep/Computer Networking.md",
+    "1.DevOps - Cloud/Interview prep",
+    "1.DevOps - Cloud/Untitled.md",
+    "Nanite/nanite config todo.md",
     "fusion/Work done till now.md",
+    "Nanite/Nanite.md",
+    "Nanite/website todo.md",
+    "Rough.md",
+    "Nanite/Nanite Branding guide implemented while building/branding guide.md",
+    "Nanite/Nanite Branding guide implemented while building",
+    "fusion/launch vm with qemu.md",
     "fusion/nanite where are which.md",
     "2.DSA/0. DSA Index.md",
     "For Job/resume edists for devops.md",
     "Nanite/naniote docs/build_and_test_guide.md",
     "1.DevOps - Cloud/AWS/aws.md",
-    "Rough.md",
     "todo.md",
     "NodeJs/NodeJS.md",
     "website in which Jobs to apply/Untitled/list of Job websites.md",
@@ -205,9 +209,6 @@
     "AZ-104/1. Azure Index.md",
     "Memes/Pasted image 20250403113930.png",
     "Memes/index.md",
-    "Nanite/naniote docs/live_build_configuration.md",
-    "Nanite/naniote docs/complete_walkthrough.md",
-    "Nanite/naniote docs/build_process_validation.md",
     "2.DSA/Pasted image 20250529123125.png",
     "2.DSA/Pasted image 20250529121142.png",
     "Nanite/nanote customization docs/default.png",
@@ -220,7 +221,6 @@
     "Nanite/nanit docs",
     "Nanite",
     "fusion/Untitled.canvas",
-    "1.DevOps - Cloud/Terraform",
     "2.DSA/Linked list code.canvas"
   ]
 }
